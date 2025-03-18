@@ -1,0 +1,1390 @@
+<body class="PageBody" id="htflow-1" hf-data-width="390px" hf-data-display="block">
+		
+		
+		
+	
+		<div id="htflow-2" hf-data-width="390px" hf-data-display="block">
+	<a href="#hj-main" id="htflow-3" class="btn btn-primary hj-button  visually-hidden-focusable" hf-data-width="1px" hf-data-display="block">
+		Skip to main content
+	</a>
+	<header id="htflow-4" class="hj-central-body row" hf-data-width="390px" hf-data-display="flex">
+		<div class="header-logo col-md-6" id="htflow-5" hf-data-width="390px" hf-data-display="block">
+			<a href="/" id="htflow-6" hf-data-width="0px" hf-data-display="inline-block">
+				<h1 class="zc-icon-title hj-logo-full" aria-label="HealthJobsUK" id="htflow-7" hf-data-width="0px" hf-data-display="block"></h1>
+			</a>
+		</div>
+		<div class="header-extra col-md-6" id="htflow-8" hf-data-width="390px" hf-data-display="block">
+			
+	<ul class="available-languages" id="htflow-9" hf-data-width="96.25px" hf-data-display="block">
+		
+			
+		
+			
+				<li id="htflow-10" hf-data-width="64.25px" hf-data-display="list-item">
+					<a href="/job_list?JobSearch_q=&amp;JobSearch_d=&amp;JobSearch_g=441&amp;JobSearch_re=_POST&amp;JobSearch_re_0=1&amp;JobSearch_re_1=1-_-_-&amp;JobSearch_re_2=1-_-_--_-_-&amp;JobSearch_Submit=Search&amp;_tr=JobSearch&amp;_ts=62673&amp;set-locale=cy-gb" lang="cy-gb" id="htflow-11" hf-data-width="64.25px" hf-data-display="inline-block">
+					Cymraeg
+					</a>
+				</li>
+			
+		
+	</ul>
+
+
+		</div>
+		<div class="header-ad col-12" id="htflow-12" hf-data-width="100%" hf-data-display="none">
+			
+	
+		
+<aside id="htflow-13" class="hj-ad clearfix" hf-data-width="auto" hf-data-display="block">
+	
+	
+		<a href="https://careers.tewhatuora.govt.nz/?utm_source=health_jobs_uk&amp;utm_medium=job_board+&amp;utm_campaign=international_awareness&amp;utm_term=united_kingdom&amp;utm_content=2025" target="_blank" id="htflow-14" hf-data-width="auto" hf-data-display="inline-block">
+	
+	<img src="https://static.trac.jobs/adimages/559/Awareness_HealthJobs - 468 x 60 (1).gif" alt="" id="htflow-15" hf-data-width="auto" hf-data-display="inline">
+	
+		</a>
+	
+
+</aside>
+
+	
+
+
+		</div>
+	</header>
+
+	<div id="htflow-16" hf-data-width="390px" hf-data-display="block">
+		<div id="htflow-17" hf-data-width="390px" hf-data-display="block">
+	<div id="htflow-18" hf-data-width="390px" hf-data-display="block">
+		<div id="htflow-19" class="clearfix" hf-data-width="390px" hf-data-display="block"><div class="hj-central-body clearfix" id="htflow-20" hf-data-width="390px" hf-data-display="block"><nav class="navbar navbar-expand-lg navbar-light" id="htflow-21" hf-data-width="390px" hf-data-display="flex">
+	<button class="navbar-toggler ms-auto collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation" id="htflow-22" hf-data-width="56px" hf-data-display="block">
+	    <span class="navbar-toggler-icon" id="htflow-23" hf-data-width="30px" hf-data-display="inline-block"></span>
+	  </button>
+	<div class="collapse navbar-collapse" id="htflow-24" hf-data-width="auto" hf-data-display="none">
+		<ul id="htflow-25" class="navbar-nav BrandMenuList" hf-data-width="100%" hf-data-display="flex">
+			<li class="nav-item" id="htflow-26" hf-data-width="auto" hf-data-display="list-item">
+				<a class="nav-link BrandMenuText" href="/select_sector" title="Find jobs" id="htflow-27" hf-data-width="auto" hf-data-display="inline-block">Jobs
+				</a>
+			</li>
+			<li class="nav-item" id="htflow-28" hf-data-width="auto" hf-data-display="list-item">
+				<a class="nav-link BrandMenuText" href="/health_employer_search" id="htflow-29" hf-data-width="auto" hf-data-display="inline-block">Employer search
+				</a>
+			</li>
+			<li class="nav-item account-list-item" id="htflow-30" hf-data-width="auto" hf-data-display="list-item">
+				<ul id="htflow-31" class="clearfix" hf-data-width="auto" hf-data-display="block">
+					<a href="https://apps.trac.jobs" class="hj-login hj-button" title="My account" id="htflow-32" hf-data-width="auto" hf-data-display="inline-block">
+						My&nbsp;account
+					</a>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</nav>
+</div></div>
+		<section id="htflow-33" class="hj-central-body px-3" hf-data-width="390px" hf-data-display="block">
+			
+			<div id="htflow-34" hf-data-width="358px" hf-data-display="block">
+				Please wait, loading
+			</div>
+			<section id="htflow-35" class="row" hf-data-width="382px" hf-data-display="flex">
+				<ol class="breadcrumbs col-12 clearfix" id="htflow-36" hf-data-width="382px" hf-data-display="block"><li id="htflow-37" hf-data-width="358px" hf-data-display="list-item"><a href="/select_sector" title="Go back to Sector" id="htflow-38" hf-data-width="46.5938px" hf-data-display="inline-block">Sector</a></li><li id="htflow-39" hf-data-width="358px" hf-data-display="list-item"><a href="/job_search/s2?_ts=62673" title="Go back to Medical and Dental job search" id="htflow-40" hf-data-width="214.398px" hf-data-display="inline-block">Medical and Dental job search</a></li><li class="current" id="htflow-41" hf-data-width="358px" hf-data-display="list-item">Job list</li></ol>
+
+				<div class="col-12" id="htflow-42" hf-data-width="382px" hf-data-display="block">
+					<section class="row" id="htflow-43" hf-data-width="382px" hf-data-display="flex">
+						<main id="htflow-44" class=" col-lg-9 " hf-data-width="382px" hf-data-display="block">
+							
+							
+	
+
+	
+		
+	
+
+	
+		<div id="htflow-45" class="hj-job-list" hf-data-width="358px" hf-data-display="block">
+	
+	
+		<h2 id="htflow-46" hf-data-width="358px" hf-data-display="block">Medical and Dental</h2>
+		
+			<div class="hj-job-pager" id="htflow-47" hf-data-width="358px" hf-data-display="block">
+				<nav class="recordset-pager " aria-label="Pagination" id="htflow-48" hf-data-width="358px" hf-data-display="block">
+	<ul class="pagination" id="htflow-49" hf-data-width="358px" hf-data-display="flex">
+		
+		
+		
+
+
+		
+			<li class="page-item active z-2" id="htflow-50" hf-data-width="35.2812px" hf-data-display="list-item">
+				<a class="page-link" aria-label="Page 1" data-bs-toggle="tooltip" data-tooltip-aria-hidden="true" href="" aria-current="page" data-bs-original-title="Page 1: current page" id="htflow-51" hf-data-width="35.2812px" hf-data-display="inline-block">
+					1
+				</a>
+			</li>
+		
+			<li class="page-item " id="htflow-52" hf-data-width="34.2812px" hf-data-display="list-item">
+				<a class="page-link" aria-label="Page 2" data-bs-toggle="tooltip" data-tooltip-aria-hidden="true" href="/job_list?JobSearch_q=&amp;JobSearch_d=&amp;JobSearch_g=441&amp;JobSearch_re=_POST&amp;JobSearch_re_0=1&amp;JobSearch_re_1=1-_-_-&amp;JobSearch_re_2=1-_-_--_-_-&amp;JobSearch_Submit=Search&amp;_tr=JobSearch&amp;_ts=62673&amp;_pg=2&amp;_pgid=" data-bs-original-title="Page 2" id="htflow-53" hf-data-width="35.2812px" hf-data-display="inline-block">
+					2
+				</a>
+			</li>
+		
+
+
+		
+			<li class="page-item" id="htflow-54" hf-data-width="49px" hf-data-display="list-item">
+				<a class="page-link icon-only page-button-image" aria-label="Next page" href="/job_list?JobSearch_q=&amp;JobSearch_d=&amp;JobSearch_g=441&amp;JobSearch_re=_POST&amp;JobSearch_re_0=1&amp;JobSearch_re_1=1-_-_-&amp;JobSearch_re_2=1-_-_--_-_-&amp;JobSearch_Submit=Search&amp;_tr=JobSearch&amp;_ts=62673&amp;_pg=2&amp;_pgid=" data-bs-toggle="tooltip" data-tooltip-aria-hidden="true" data-bs-original-title="Next page" id="htflow-55" hf-data-width="50px" hf-data-display="flex">
+					<span class="material-icons" aria-hidden="true" id="htflow-56" hf-data-width="24px" hf-data-display="block">play_arrow</span>
+				</a>
+			</li>
+		
+		
+		
+	</ul>
+</nav>
+
+			</div>
+		
+		
+			<div class="hj-sorter" id="htflow-57" hf-data-width="358px" hf-data-display="block">
+				<form name="frmSorter" id="htflow-58" action="/job_list" method="post" hf-data-width="358px" hf-data-display="block"><div class="form-widget-container layout-main-sm trac-form-group row caption-left " id="htflow-59" hf-data-width="382px" hf-data-display="flex">
+	<label class="order-1 col-form-label py-0 col-auto" for="frmSorter.rstsortby" id="htflow-60" hf-data-width="73.8125px" hf-data-display="block">Sort by</label>
+	<div class="form-widget order-4 col-auto" id="htflow-61" hf-data-width="156px" hf-data-display="block">
+		
+		<select id="htflow-62" name="frmSorter_rstsortby" onchange="window.location.assign( window.location.href.replace(/\?.*/, '') + '?' + this.options[this.selectedIndex].value );" class="form-control form-select" aria-describedby="frmSorter.rstsortby_validation" hf-data-width="132px" hf-data-display="block">
+<option selected="" value="JobSearch_q=&amp;JobSearch_d=&amp;JobSearch_g=441&amp;JobSearch_re=_POST&amp;JobSearch_re_0=1&amp;JobSearch_re_1=1-_-_-&amp;JobSearch_re_2=1-_-_--_-_-&amp;JobSearch_Submit=Search&amp;_tr=JobSearch&amp;_ts=62673&amp;_srt=covid19&amp;_sd=a" id="htflow-63" hf-data-width="auto" hf-data-display="block">COVID-19?</option><option value="JobSearch_q=&amp;JobSearch_d=&amp;JobSearch_g=441&amp;JobSearch_re=_POST&amp;JobSearch_re_0=1&amp;JobSearch_re_1=1-_-_-&amp;JobSearch_re_2=1-_-_--_-_-&amp;JobSearch_Submit=Search&amp;_tr=JobSearch&amp;_ts=62673&amp;_srt=employername&amp;_sd=a" id="htflow-64" hf-data-width="auto" hf-data-display="block">Employer</option><option value="JobSearch_q=&amp;JobSearch_d=&amp;JobSearch_g=441&amp;JobSearch_re=_POST&amp;JobSearch_re_0=1&amp;JobSearch_re_1=1-_-_-&amp;JobSearch_re_2=1-_-_--_-_-&amp;JobSearch_Submit=Search&amp;_tr=JobSearch&amp;_ts=62673&amp;_srt=grade&amp;_sd=a" id="htflow-65" hf-data-width="auto" hf-data-display="block">Grade</option><option value="JobSearch_q=&amp;JobSearch_d=&amp;JobSearch_g=441&amp;JobSearch_re=_POST&amp;JobSearch_re_0=1&amp;JobSearch_re_1=1-_-_-&amp;JobSearch_re_2=1-_-_--_-_-&amp;JobSearch_Submit=Search&amp;_tr=JobSearch&amp;_ts=62673&amp;_srt=jobtitle&amp;_sd=a" id="htflow-66" hf-data-width="auto" hf-data-display="block">Job title</option><option value="JobSearch_q=&amp;JobSearch_d=&amp;JobSearch_g=441&amp;JobSearch_re=_POST&amp;JobSearch_re_0=1&amp;JobSearch_re_1=1-_-_-&amp;JobSearch_re_2=1-_-_--_-_-&amp;JobSearch_Submit=Search&amp;_tr=JobSearch&amp;_ts=62673&amp;_srt=locationtown&amp;_sd=a" id="htflow-67" hf-data-width="auto" hf-data-display="block">Location</option><option value="JobSearch_q=&amp;JobSearch_d=&amp;JobSearch_g=441&amp;JobSearch_re=_POST&amp;JobSearch_re_0=1&amp;JobSearch_re_1=1-_-_-&amp;JobSearch_re_2=1-_-_--_-_-&amp;JobSearch_Submit=Search&amp;_tr=JobSearch&amp;_ts=62673&amp;_srt=startdate&amp;_sd=a" id="htflow-68" hf-data-width="auto" hf-data-display="block">Newest</option><option value="JobSearch_q=&amp;JobSearch_d=&amp;JobSearch_g=441&amp;JobSearch_re=_POST&amp;JobSearch_re_0=1&amp;JobSearch_re_1=1-_-_-&amp;JobSearch_re_2=1-_-_--_-_-&amp;JobSearch_Submit=Search&amp;_tr=JobSearch&amp;_ts=62673&amp;_srt=primaryspeciality&amp;_sd=a" id="htflow-69" hf-data-width="auto" hf-data-display="block">Speciality</option></select>
+
+
+		
+	</div>
+	
+	
+		
+	
+</div>
+</form>
+
+
+			</div>
+		
+		<ol id="htflow-70" hf-data-width="358px" hf-data-display="block">
+			
+	<li class="hj-job row-odd" id="htflow-71" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Manchester/Stockport/Stockport_NHS_Foundation_Trust/Medical_Education/Medical_Education-v6980631?_ts=62673" title="Undergraduate Education Fellow" class="clearfix" id="htflow-72" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-73" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Undergraduate Education Fellow" id="htflow-74" hf-data-width="326px" hf-data-display="block">Undergraduate Education Fellow</div>
+				<div class="hj-grade hj-job-detail" title="Grade: Local Appointment nodal point 3" id="htflow-75" hf-data-width="326px" hf-data-display="block">Local Appointment nodal point 3</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/139.png" alt="Stockport NHS Foundation Trust" class="hj-employer-logo" id="htflow-76" hf-data-width="275px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-77" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-78" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Stockport NHS Foundation Trust" id="htflow-79" hf-data-width="326px" hf-data-display="block">Stockport NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Stockport" id="htflow-80" hf-data-width="326px" hf-data-display="block">Stockport</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Medical Education" id="htflow-81" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-82" hf-data-width="326px" hf-data-display="block">Speciality:</div> Medical Education</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 Per annum - To be agreed on appointment - grade dependent" id="htflow-83" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-84" hf-data-width="326px" hf-data-display="block">Salary:</div> £49,909 Per annum - To be agreed on appointment - grade dependent</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-85" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Berkshire/Reading/Royal_Berkshire_NHS_Foundation_Trust/Gastroenterology/Gastroenterology-v6992211?_ts=62673" title="Junior Clinical Fellow FY3 - Gastroenterology" class="clearfix" id="htflow-86" hf-data-width="322.734px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-87" hf-data-width="322.734px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Clinical Fellow FY3 - Gastroenterology" id="htflow-88" hf-data-width="322.734px" hf-data-display="block">Junior Clinical Fellow FY3 - Gastroenterology</div>
+				<div class="hj-grade hj-job-detail" title="Grade: Junior Clinical Fellow" id="htflow-89" hf-data-width="322.734px" hf-data-display="block">Junior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/276.png" alt="Royal Berkshire NHS Foundation Trust" class="hj-employer-logo" id="htflow-90" hf-data-width="213px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-91" hf-data-width="322.734px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-92" hf-data-width="322.734px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Royal Berkshire NHS Foundation Trust" id="htflow-93" hf-data-width="322.734px" hf-data-display="block">Royal Berkshire NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Reading" id="htflow-94" hf-data-width="322.734px" hf-data-display="block">Reading</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Gastroenterology" id="htflow-95" hf-data-width="322.734px" hf-data-display="block"><div class="hj-field-caption" id="htflow-96" hf-data-width="322.734px" hf-data-display="block">Speciality:</div> Gastroenterology</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum" id="htflow-97" hf-data-width="322.734px" hf-data-display="block"><div class="hj-field-caption" id="htflow-98" hf-data-width="322.734px" hf-data-display="block">Salary:</div> £49,909 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-99" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Derbyshire/Derby/University_Hospitals_Derby_Burton_NHS_Foundation_Trust/Specialist_Medicine/Specialist_Medicine-v7050991?_ts=62673" title="Junior Clinical Fellow (F3 equivalent) Specialist Medicine" class="clearfix" id="htflow-100" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-101" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Clinical Fellow (F3 equivalent) Specialist Medicine" id="htflow-102" hf-data-width="326px" hf-data-display="block">Junior Clinical Fellow (F3 equivalent) Specialist Medicine</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Junior Clinical Fellow" id="htflow-103" hf-data-width="326px" hf-data-display="block">NHS Medical &amp; Dental: Junior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/365.png" alt="University Hospitals of Derby and Burton NHS Foundation Trust" class="hj-employer-logo" id="htflow-104" hf-data-width="282px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-105" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-106" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: University Hospitals of Derby and Burton NHS Foundation Trust" id="htflow-107" hf-data-width="326px" hf-data-display="block">University Hospitals of Derby and Burton NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Derby" id="htflow-108" hf-data-width="326px" hf-data-display="block">Derby</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Specialist Medicine" id="htflow-109" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-110" hf-data-width="326px" hf-data-display="block">Speciality:</div> Specialist Medicine</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 plus OOH" id="htflow-111" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-112" hf-data-width="326px" hf-data-display="block">Salary:</div> £49,909 plus OOH</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-113" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Lancashire/Preston/Lancashire_Teaching_Hospitals_NHS_Foundation_Trust/Oral_Maxillofacial_Surgery/Oral_Maxillofacial_Surgery-v7051430?_ts=62673" title="Junior Clinical Fellow in Oral and Maxillofacial Surgery" class="clearfix" id="htflow-114" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-115" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Clinical Fellow in Oral and Maxillofacial Surgery" id="htflow-116" hf-data-width="400px" hf-data-display="block">Junior Clinical Fellow in Oral and Maxillofacial Surgery</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Junior Clinical Fellow: Local Appointment nodal point 3 (MT03)" id="htflow-117" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Junior Clinical Fellow: Local Appointment nodal point 3 (MT03)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/824.png" alt="Lancashire Teaching Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-118" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-119" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-120" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Lancashire Teaching Hospitals NHS Foundation Trust" id="htflow-121" hf-data-width="400px" hf-data-display="block">Lancashire Teaching Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Preston" id="htflow-122" hf-data-width="400px" hf-data-display="block">Preston</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Oral &amp; Maxillofacial Surgery" id="htflow-123" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-124" hf-data-width="400px" hf-data-display="block">Speciality:</div> Oral &amp; Maxillofacial Surgery</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum" id="htflow-125" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-126" hf-data-width="400px" hf-data-display="block">Salary:</div> £49,909 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-127" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Merseyside/Liverpool/The_Walton_Centre_NHS_Foundation_Trust/Neurosurgery/Neurosurgery-v7056783?_ts=62673" title="Junior Trust Grade Doctor in Neurosurgery" class="clearfix" id="htflow-128" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-129" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Trust Grade Doctor in Neurosurgery" id="htflow-130" hf-data-width="326px" hf-data-display="block">Junior Trust Grade Doctor in Neurosurgery</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Speciality Trainee (ST1/2)" id="htflow-131" hf-data-width="326px" hf-data-display="block">NHS Medical &amp; Dental: Speciality Trainee (ST1/2)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/7804.png" alt="The Walton Centre NHS Foundation Trust" class="hj-employer-logo" id="htflow-132" hf-data-width="240px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-133" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-134" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: The Walton Centre NHS Foundation Trust" id="htflow-135" hf-data-width="326px" hf-data-display="block">The Walton Centre NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Liverpool" id="htflow-136" hf-data-width="326px" hf-data-display="block">Liverpool</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Neurosurgery" id="htflow-137" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-138" hf-data-width="326px" hf-data-display="block">Speciality:</div> Neurosurgery</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum" id="htflow-139" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-140" hf-data-width="326px" hf-data-display="block">Salary:</div> £49,909 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-141" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Nottinghamshire/Nottingham/Nottingham_University_Hospitals_NHS_Trust/Medicine_various/Medicine_various-v7057082?_ts=62673" title="Acute Rescue Team Fellow" class="clearfix" id="htflow-142" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-143" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Acute Rescue Team Fellow" id="htflow-144" hf-data-width="326px" hf-data-display="block">Acute Rescue Team Fellow</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Local Appointment nodal point 3" id="htflow-145" hf-data-width="326px" hf-data-display="block">NHS Medical &amp; Dental: Local Appointment nodal point 3</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/358.png" alt="Nottingham University Hospitals NHS Trust" class="hj-employer-logo" id="htflow-146" hf-data-width="281px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-147" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-148" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Nottingham University Hospitals NHS Trust" id="htflow-149" hf-data-width="326px" hf-data-display="block">Nottingham University Hospitals NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Nottingham" id="htflow-150" hf-data-width="326px" hf-data-display="block">Nottingham</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Medicine (various)" id="htflow-151" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-152" hf-data-width="326px" hf-data-display="block">Speciality:</div> Medicine (various)</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 - £61,825 Out of hours payments will apply" id="htflow-153" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-154" hf-data-width="326px" hf-data-display="block">Salary:</div> £49,909 - £61,825 Out of hours payments will apply</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-155" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Birmingham_Black_Country/SandwellBirmingham/Sandwell_West_Birmingham_NHS_Trust/Neonates/Neonates-v7065289?_ts=62673" title="Junior Specialist Doctor (Lower) In Neonates" class="clearfix" id="htflow-156" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-157" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Specialist Doctor (Lower) In Neonates" id="htflow-158" hf-data-width="400px" hf-data-display="block">Junior Specialist Doctor (Lower) In Neonates</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Junior Specialist Doctor (Lower)" id="htflow-159" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Junior Specialist Doctor (Lower)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/389.png" alt="Sandwell and West Birmingham NHS Trust" class="hj-employer-logo" id="htflow-160" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-161" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-162" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Sandwell and West Birmingham NHS Trust" id="htflow-163" hf-data-width="400px" hf-data-display="block">Sandwell and West Birmingham NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Sandwell/Birmingham" id="htflow-164" hf-data-width="400px" hf-data-display="block">Sandwell/Birmingham</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Neonates" id="htflow-165" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-166" hf-data-width="400px" hf-data-display="block">Speciality:</div> Neonates</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per Annum" id="htflow-167" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-168" hf-data-width="400px" hf-data-display="block">Salary:</div> £49,909 per Annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-169" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/London/Barts_Health_NHS_Trust/Paediatrics/Paediatrics-v7086310?_ts=62673" title="Trust Registrar Paediatric Emergency Medicine ST3+" class="clearfix" id="htflow-170" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-171" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Trust Registrar Paediatric Emergency Medicine ST3+" id="htflow-172" hf-data-width="326px" hf-data-display="block">Trust Registrar Paediatric Emergency Medicine ST3+</div>
+				<div class="hj-grade hj-job-detail" title="Grade: MN37" id="htflow-173" hf-data-width="326px" hf-data-display="block">MN37</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/40.png" alt="Barts Health NHS Trust" class="hj-employer-logo" id="htflow-174" hf-data-width="275px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-175" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-176" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Barts Health NHS Trust" id="htflow-177" hf-data-width="326px" hf-data-display="block">Barts Health NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-178" hf-data-width="326px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Paediatrics" id="htflow-179" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-180" hf-data-width="326px" hf-data-display="block">Speciality:</div> Paediatrics</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £41,750 - £64,288 per annum" id="htflow-181" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-182" hf-data-width="326px" hf-data-display="block">Salary:</div> £41,750 - £64,288 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-183" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/West_Yorkshire/Bradford/Bradford_Teaching_Hospitals_NHS_Foundation_Trust/Palliative_medicine/Palliative_medicine-v7086859?_ts=62673" title="Clinical Fellow Marie Curie (REACT) Team Bradford" class="clearfix" id="htflow-184" hf-data-width="382px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-185" hf-data-width="382px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Clinical Fellow Marie Curie (REACT) Team Bradford" id="htflow-186" hf-data-width="382px" hf-data-display="block">Clinical Fellow Marie Curie (REACT) Team Bradford</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Junior Clinical Fellow" id="htflow-187" hf-data-width="382px" hf-data-display="block">NHS Medical &amp; Dental: Junior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/153.png" alt="Bradford Teaching Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-188" hf-data-width="382px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-189" hf-data-width="382px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-190" hf-data-width="382px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Bradford Teaching Hospitals NHS Foundation Trust" id="htflow-191" hf-data-width="382px" hf-data-display="block">Bradford Teaching Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Bradford" id="htflow-192" hf-data-width="382px" hf-data-display="block">Bradford</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Palliative medicine" id="htflow-193" hf-data-width="382px" hf-data-display="block"><div class="hj-field-caption" id="htflow-194" hf-data-width="382px" hf-data-display="block">Speciality:</div> Palliative medicine</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum" id="htflow-195" hf-data-width="382px" hf-data-display="block"><div class="hj-field-caption" id="htflow-196" hf-data-width="382px" hf-data-display="block">Salary:</div> £49,909 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-197" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/London/Imperial_College_Healthcare_NHS_Trust/Microsurgical_Reconstructive_Surgery/Microsurgical_Reconstructive_Surgery-v7087334?_ts=62673" title="Extremity Reconstruction Fellow in Plastic Surgery" class="clearfix" id="htflow-198" hf-data-width="336px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-199" hf-data-width="336px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Extremity Reconstruction Fellow in Plastic Surgery" id="htflow-200" hf-data-width="336px" hf-data-display="block">Extremity Reconstruction Fellow in Plastic Surgery</div>
+				<div class="hj-grade hj-job-detail" title="Grade: MN37" id="htflow-201" hf-data-width="336px" hf-data-display="block">MN37</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/57.png" alt="Imperial College Healthcare NHS Trust" class="hj-employer-logo" id="htflow-202" hf-data-width="336px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-203" hf-data-width="336px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-204" hf-data-width="336px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Imperial College Healthcare NHS Trust" id="htflow-205" hf-data-width="336px" hf-data-display="block">Imperial College Healthcare NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-206" hf-data-width="336px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Microsurgical Reconstructive Surgery" id="htflow-207" hf-data-width="336px" hf-data-display="block"><div class="hj-field-caption" id="htflow-208" hf-data-width="336px" hf-data-display="block">Speciality:</div> Microsurgical Reconstructive Surgery</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £41,750 - £64,288 per annum plus London Weighting" id="htflow-209" hf-data-width="336px" hf-data-display="block"><div class="hj-field-caption" id="htflow-210" hf-data-width="336px" hf-data-display="block">Salary:</div> £41,750 - £64,288 per annum plus London Weighting</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-211" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Derbyshire/Derby/University_Hospitals_Derby_Burton_NHS_Foundation_Trust/Trauma_Orthopaedics/Trauma_Orthopaedics-v7088547?_ts=62673" title="Junior Clinical Fellow in Trauma &amp; Orthopeadics" class="clearfix" id="htflow-212" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-213" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Clinical Fellow in Trauma &amp; Orthopeadics" id="htflow-214" hf-data-width="326px" hf-data-display="block">Junior Clinical Fellow in Trauma &amp; Orthopeadics</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Junior Clinical Fellow" id="htflow-215" hf-data-width="326px" hf-data-display="block">NHS Medical &amp; Dental: Junior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/365.png" alt="University Hospitals of Derby and Burton NHS Foundation Trust" class="hj-employer-logo" id="htflow-216" hf-data-width="282px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-217" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-218" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: University Hospitals of Derby and Burton NHS Foundation Trust" id="htflow-219" hf-data-width="326px" hf-data-display="block">University Hospitals of Derby and Burton NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Derby" id="htflow-220" hf-data-width="326px" hf-data-display="block">Derby</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Trauma and Orthopaedics" id="htflow-221" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-222" hf-data-width="326px" hf-data-display="block">Speciality:</div> Trauma and Orthopaedics</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum.  Plus enhancements for out of hours working." id="htflow-223" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-224" hf-data-width="326px" hf-data-display="block">Salary:</div> £49,909 per annum.  Plus enhancements for out of hours working.</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-225" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/South_Yorkshire/Sheffield/Sheffield_Childrens_NHS_Foundation_Trust/Paediatric_Urology/Paediatric_Urology-v6997649?_ts=62673" title="Paediatric Urology Fellow" class="clearfix" id="htflow-226" hf-data-width="319.539px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-227" hf-data-width="319.539px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Paediatric Urology Fellow" id="htflow-228" hf-data-width="319.539px" hf-data-display="block">Paediatric Urology Fellow</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Senior Clinical Fellow" id="htflow-229" hf-data-width="319.539px" hf-data-display="block">NHS Medical &amp; Dental: Senior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/362.png" alt="Sheffield Children's NHS Foundation Trust" class="hj-employer-logo" id="htflow-230" hf-data-width="271px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-231" hf-data-width="319.539px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-232" hf-data-width="319.539px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Sheffield Children's NHS Foundation Trust" id="htflow-233" hf-data-width="319.539px" hf-data-display="block">Sheffield Children's NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Sheffield" id="htflow-234" hf-data-width="319.539px" hf-data-display="block">Sheffield</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Paediatric Urology" id="htflow-235" hf-data-width="319.539px" hf-data-display="block"><div class="hj-field-caption" id="htflow-236" hf-data-width="319.539px" hf-data-display="block">Speciality:</div> Paediatric Urology</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 - £70,425 per annum" id="htflow-237" hf-data-width="319.539px" hf-data-display="block"><div class="hj-field-caption" id="htflow-238" hf-data-width="319.539px" hf-data-display="block">Salary:</div> £49,909 - £70,425 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-239" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Birmingham_Black_Country/Walsall/Walsall_Healthcare_NHS_Trust/Medical_Dental_Group/Medical_Dental_Group-v7031214?_ts=62673" title="Junior Clinical Fellow in ENT" class="clearfix" id="htflow-240" hf-data-width="318.492px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-241" hf-data-width="318.492px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Clinical Fellow in ENT" id="htflow-242" hf-data-width="318.492px" hf-data-display="block">Junior Clinical Fellow in ENT</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Junior Clinical Fellow" id="htflow-243" hf-data-width="318.492px" hf-data-display="block">NHS Medical &amp; Dental: Junior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/423.png" alt="Walsall Healthcare NHS Trust" class="hj-employer-logo" id="htflow-244" hf-data-width="179px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-245" hf-data-width="318.492px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-246" hf-data-width="318.492px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Walsall Healthcare NHS Trust" id="htflow-247" hf-data-width="318.492px" hf-data-display="block">Walsall Healthcare NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Walsall" id="htflow-248" hf-data-width="318.492px" hf-data-display="block">Walsall</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Medical Dental Group" id="htflow-249" hf-data-width="318.492px" hf-data-display="block"><div class="hj-field-caption" id="htflow-250" hf-data-width="318.492px" hf-data-display="block">Speciality:</div> Medical Dental Group</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £42,008" id="htflow-251" hf-data-width="318.492px" hf-data-display="block"><div class="hj-field-caption" id="htflow-252" hf-data-width="318.492px" hf-data-display="block">Salary:</div> £42,008</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-253" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Dorset/Bournemouth/University_Hospitals_Dorset_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7054823?_ts=62673" title="Junior Clinical Fellow in Emergency Medicine" class="clearfix" id="htflow-254" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-255" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Clinical Fellow in Emergency Medicine" id="htflow-256" hf-data-width="326px" hf-data-display="block">Junior Clinical Fellow in Emergency Medicine</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Junior Clinical Fellow" id="htflow-257" hf-data-width="326px" hf-data-display="block">NHS Medical &amp; Dental: Junior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/315.png" alt="University Hospitals Dorset NHS Foundation Trust" class="hj-employer-logo" id="htflow-258" hf-data-width="295px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-259" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-260" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: University Hospitals Dorset NHS Foundation Trust" id="htflow-261" hf-data-width="326px" hf-data-display="block">University Hospitals Dorset NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Bournemouth" id="htflow-262" hf-data-width="326px" hf-data-display="block">Bournemouth</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Emergency Medicine" id="htflow-263" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-264" hf-data-width="326px" hf-data-display="block">Speciality:</div> Emergency Medicine</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 + Enhancements" id="htflow-265" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-266" hf-data-width="326px" hf-data-display="block">Salary:</div> £49,909 + Enhancements</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-267" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/Tooting/St_Georges_University_Hospitals_NHS_Foundation_Trust/Department_Neurology/Department_Neurology-v7069201?_ts=62673" title="Junior Clinical Fellow -Neurology  from Aug 2025 to Aug 2026" class="clearfix" id="htflow-268" hf-data-width="355px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-269" hf-data-width="355px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Clinical Fellow -Neurology  from Aug 2025 to Aug 2026" id="htflow-270" hf-data-width="355px" hf-data-display="block">Junior Clinical Fellow -Neurology  from Aug 2025 to Aug 2026</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Specialty Trainee (ST1/2)" id="htflow-271" hf-data-width="355px" hf-data-display="block">NHS Medical &amp; Dental: Specialty Trainee (ST1/2)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/87.png" alt="St George's University Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-272" hf-data-width="355px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-273" hf-data-width="355px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-274" hf-data-width="355px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: St George's University Hospitals NHS Foundation Trust" id="htflow-275" hf-data-width="355px" hf-data-display="block">St George's University Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Tooting" id="htflow-276" hf-data-width="355px" hf-data-display="block">Tooting</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Department of Neurology" id="htflow-277" hf-data-width="355px" hf-data-display="block"><div class="hj-field-caption" id="htflow-278" hf-data-width="355px" hf-data-display="block">Speciality:</div> Department of Neurology</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £41,750 - £64,288 per annum" id="htflow-279" hf-data-width="355px" hf-data-display="block"><div class="hj-field-caption" id="htflow-280" hf-data-width="355px" hf-data-display="block">Salary:</div> £41,750 - £64,288 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-281" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/South_Yorkshire/Sheffield/Sheffield_Teaching_Hospitals_NHS_Foundation_Trust/Orthopaedics/Orthopaedics-v7081801?_ts=62673" title="Junior Clinical Fellow in Spinal Surgery" class="clearfix" id="htflow-282" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-283" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Clinical Fellow in Spinal Surgery" id="htflow-284" hf-data-width="400px" hf-data-display="block">Junior Clinical Fellow in Spinal Surgery</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)" id="htflow-285" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/335.png" alt="Sheffield Teaching Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-286" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-287" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-288" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Sheffield Teaching Hospitals NHS Foundation Trust" id="htflow-289" hf-data-width="400px" hf-data-display="block">Sheffield Teaching Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Sheffield" id="htflow-290" hf-data-width="400px" hf-data-display="block">Sheffield</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Orthopaedics" id="htflow-291" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-292" hf-data-width="400px" hf-data-display="block">Speciality:</div> Orthopaedics</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum" id="htflow-293" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-294" hf-data-width="400px" hf-data-display="block">Salary:</div> £49,909 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-295" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/London/Royal_Free_London_NHS_Foundation_Trust/Bank_Medical_Locum_Doctor/Bank_Medical_Locum_Doctor-v7082631?_ts=62673" title="Bank Medical Locum Doctor FY2 - ST3+ North MID" class="clearfix" id="htflow-296" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-297" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Bank Medical Locum Doctor FY2 - ST3+ North MID" id="htflow-298" hf-data-width="326px" hf-data-display="block">Bank Medical Locum Doctor FY2 - ST3+ North MID</div>
+				<div class="hj-grade hj-job-detail" title="Grade: FY2 - ST3+" id="htflow-299" hf-data-width="326px" hf-data-display="block">FY2 - ST3+</div>
+			</div>
+			
+			
+			<div class="hj-job-details" id="htflow-300" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-301" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Royal Free London NHS Foundation Trust" id="htflow-302" hf-data-width="326px" hf-data-display="block">Royal Free London NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-303" hf-data-width="326px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Bank Medical Locum Doctor" id="htflow-304" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-305" hf-data-width="326px" hf-data-display="block">Speciality:</div> Bank Medical Locum Doctor</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £30 Hourly" id="htflow-306" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-307" hf-data-width="326px" hf-data-display="block">Salary:</div> £30 Hourly</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-308" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/London/Royal_Free_London_NHS_Foundation_Trust/Bank_Medical_Locum_Doctor/Bank_Medical_Locum_Doctor-v7083246?_ts=62673" title="Bank Medical Locum Doctor FY2 - ST3+" class="clearfix" id="htflow-309" hf-data-width="293.43px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-310" hf-data-width="293.43px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Bank Medical Locum Doctor FY2 - ST3+" id="htflow-311" hf-data-width="293.43px" hf-data-display="block">Bank Medical Locum Doctor FY2 - ST3+</div>
+				<div class="hj-grade hj-job-detail" title="Grade: FY2 - ST3+" id="htflow-312" hf-data-width="293.43px" hf-data-display="block">FY2 - ST3+</div>
+			</div>
+			
+			
+			<div class="hj-job-details" id="htflow-313" hf-data-width="293.43px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-314" hf-data-width="293.43px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Royal Free London NHS Foundation Trust" id="htflow-315" hf-data-width="293.43px" hf-data-display="block">Royal Free London NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-316" hf-data-width="293.43px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Bank Medical Locum Doctor" id="htflow-317" hf-data-width="293.43px" hf-data-display="block"><div class="hj-field-caption" id="htflow-318" hf-data-width="293.43px" hf-data-display="block">Speciality:</div> Bank Medical Locum Doctor</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £30 Hourly" id="htflow-319" hf-data-width="293.43px" hf-data-display="block"><div class="hj-field-caption" id="htflow-320" hf-data-width="293.43px" hf-data-display="block">Salary:</div> £30 Hourly</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-321" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Shropshire/Telford/The_Shrewsbury_Telford_Hospital_NHS_Trust/Anaesthetics/Anaesthetics-v7084139?_ts=62673" title="Locally Employed Doctor (CT1-CT3 Equivalent) in Anaesthetics" class="clearfix" id="htflow-322" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-323" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Locally Employed Doctor (CT1-CT3 Equivalent) in Anaesthetics" id="htflow-324" hf-data-width="326px" hf-data-display="block">Locally Employed Doctor (CT1-CT3 Equivalent) in Anaesthetics</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Core Trainee (CT1/2)" id="htflow-325" hf-data-width="326px" hf-data-display="block">NHS Medical &amp; Dental: Core Trainee (CT1/2)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/411.png" alt="The Shrewsbury and Telford Hospital NHS Trust" class="hj-employer-logo" id="htflow-326" hf-data-width="225px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-327" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-328" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: The Shrewsbury and Telford Hospital NHS Trust" id="htflow-329" hf-data-width="326px" hf-data-display="block">The Shrewsbury and Telford Hospital NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Telford" id="htflow-330" hf-data-width="326px" hf-data-display="block">Telford</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Anaesthetics" id="htflow-331" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-332" hf-data-width="326px" hf-data-display="block">Speciality:</div> Anaesthetics</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 - £61,825 per annum" id="htflow-333" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-334" hf-data-width="326px" hf-data-display="block">Salary:</div> £49,909 - £61,825 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-335" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/-v7085456?_ts=62673" title="Academic Clinical Fellow (equivalent to ST3+) ITU" class="clearfix" id="htflow-336" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-337" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Academic Clinical Fellow (equivalent to ST3+) ITU" id="htflow-338" hf-data-width="326px" hf-data-display="block">Academic Clinical Fellow (equivalent to ST3+) ITU</div>
+				<div class="hj-grade hj-job-detail" title="Grade: MN37" id="htflow-339" hf-data-width="326px" hf-data-display="block">MN37</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/40.png" alt="Barts Health NHS Trust" class="hj-employer-logo" id="htflow-340" hf-data-width="275px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-341" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-342" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Barts Health NHS Trust" id="htflow-343" hf-data-width="326px" hf-data-display="block">Barts Health NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-344" hf-data-width="326px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Surgery and Cancer" id="htflow-345" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-346" hf-data-width="326px" hf-data-display="block">Speciality:</div> Surgery and Cancer</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £41,750 - £64,288 per annum" id="htflow-347" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-348" hf-data-width="326px" hf-data-display="block">Salary:</div> £41,750 - £64,288 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-349" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/London/Barts_Health_NHS_Trust/Emergency/Emergency-v7085482?_ts=62673" title="Chief Registrar" class="clearfix" id="htflow-350" hf-data-width="275px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-351" hf-data-width="275px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Chief Registrar" id="htflow-352" hf-data-width="275px" hf-data-display="block">Chief Registrar</div>
+				<div class="hj-grade hj-job-detail" title="Grade: MN37" id="htflow-353" hf-data-width="275px" hf-data-display="block">MN37</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/40.png" alt="Barts Health NHS Trust" class="hj-employer-logo" id="htflow-354" hf-data-width="275px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-355" hf-data-width="275px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-356" hf-data-width="275px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Barts Health NHS Trust" id="htflow-357" hf-data-width="275px" hf-data-display="block">Barts Health NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-358" hf-data-width="275px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Emergency" id="htflow-359" hf-data-width="275px" hf-data-display="block"><div class="hj-field-caption" id="htflow-360" hf-data-width="275px" hf-data-display="block">Speciality:</div> Emergency</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 - £70,425 PER ANNUM" id="htflow-361" hf-data-width="275px" hf-data-display="block"><div class="hj-field-caption" id="htflow-362" hf-data-width="275px" hf-data-display="block">Salary:</div> £49,909 - £70,425 PER ANNUM</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-363" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Leicestershire/Leicester/University_Hospitals_Leicester_NHS_Trust/Haematology/Haematology-v6984991?_ts=62673" title="Clinical Teaching Fellow in Cancer Care" class="clearfix" id="htflow-364" hf-data-width="319.539px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-365" hf-data-width="319.539px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Clinical Teaching Fellow in Cancer Care" id="htflow-366" hf-data-width="319.539px" hf-data-display="block">Clinical Teaching Fellow in Cancer Care</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Senior Clinical Fellow" id="htflow-367" hf-data-width="319.539px" hf-data-display="block">NHS Medical &amp; Dental: Senior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/431.png" alt="University Hospitals of Leicester NHS Trust" class="hj-employer-logo" id="htflow-368" hf-data-width="250px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-369" hf-data-width="319.539px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-370" hf-data-width="319.539px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: University Hospitals of Leicester NHS Trust" id="htflow-371" hf-data-width="319.539px" hf-data-display="block">University Hospitals of Leicester NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Leicester" id="htflow-372" hf-data-width="319.539px" hf-data-display="block">Leicester</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Haematology" id="htflow-373" hf-data-width="319.539px" hf-data-display="block"><div class="hj-field-caption" id="htflow-374" hf-data-width="319.539px" hf-data-display="block">Speciality:</div> Haematology</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 - £61,825 Dependent on Experience" id="htflow-375" hf-data-width="319.539px" hf-data-display="block"><div class="hj-field-caption" id="htflow-376" hf-data-width="319.539px" hf-data-display="block">Salary:</div> £49,909 - £61,825 Dependent on Experience</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-377" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Leicestershire/Leicester/University_Hospitals_Leicester_NHS_Trust/Medical_education/Medical_education-v7018375?_ts=62673" title="Education Teaching/ Surgical Teaching Fellow" class="clearfix" id="htflow-378" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-379" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Education Teaching/ Surgical Teaching Fellow" id="htflow-380" hf-data-width="326px" hf-data-display="block">Education Teaching/ Surgical Teaching Fellow</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Core or Specialty Trainee CT1/2 or ST3-5" id="htflow-381" hf-data-width="326px" hf-data-display="block">NHS Medical &amp; Dental: Core or Specialty Trainee CT1/2 or ST3-5</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/431.png" alt="University Hospitals of Leicester NHS Trust" class="hj-employer-logo" id="htflow-382" hf-data-width="250px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-383" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-384" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: University Hospitals of Leicester NHS Trust" id="htflow-385" hf-data-width="326px" hf-data-display="block">University Hospitals of Leicester NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Leicester" id="htflow-386" hf-data-width="326px" hf-data-display="block">Leicester</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Medical education" id="htflow-387" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-388" hf-data-width="326px" hf-data-display="block">Speciality:</div> Medical education</div>
+				<div class="hj-salary hj-job-detail" title="Salary: Dependant on experience" id="htflow-389" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-390" hf-data-width="326px" hf-data-display="block">Salary:</div> Dependant on experience</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-391" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Cambridgeshire/Cambridge/Cambridge_University_Hospitals_NHS_Foundation_Trust/General_Surgery_Colorectal_HPB/General_Surgery_Colorectal_HPB-v7068209?_ts=62673" title="Clinical Fellow (Core) in General Surgery (Colorectal &amp; HPB)" class="clearfix" id="htflow-392" hf-data-width="350px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-393" hf-data-width="350px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Clinical Fellow (Core) in General Surgery (Colorectal &amp; HPB)" id="htflow-394" hf-data-width="350px" hf-data-display="block">Clinical Fellow (Core) in General Surgery (Colorectal &amp; HPB)</div>
+				<div class="hj-grade hj-job-detail" title="Grade: Clinical Fellow (Core)" id="htflow-395" hf-data-width="350px" hf-data-display="block">Clinical Fellow (Core)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/1.png" alt="Cambridge University Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-396" hf-data-width="350px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-397" hf-data-width="350px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-398" hf-data-width="350px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Cambridge University Hospitals NHS Foundation Trust" id="htflow-399" hf-data-width="350px" hf-data-display="block">Cambridge University Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Cambridge" id="htflow-400" hf-data-width="350px" hf-data-display="block">Cambridge</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: General Surgery (Colorectal &amp; HPB)" id="htflow-401" hf-data-width="350px" hf-data-display="block"><div class="hj-field-caption" id="htflow-402" hf-data-width="350px" hf-data-display="block">Speciality:</div> General Surgery (Colorectal &amp; HPB)</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum pro rata" id="htflow-403" hf-data-width="350px" hf-data-display="block"><div class="hj-field-caption" id="htflow-404" hf-data-width="350px" hf-data-display="block">Salary:</div> £49,909 per annum pro rata</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-405" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/London/Guys_St_Thomas_NHS_Foundation_Trust/Transplant_Renal_Urology/Transplant_Renal_Urology-v7070116?_ts=62673" title="Junior Clinical Fellow in Urology" class="clearfix" id="htflow-406" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-407" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Clinical Fellow in Urology" id="htflow-408" hf-data-width="400px" hf-data-display="block">Junior Clinical Fellow in Urology</div>
+				<div class="hj-grade hj-job-detail" title="Grade: Nodal Point 3" id="htflow-409" hf-data-width="400px" hf-data-display="block">Nodal Point 3</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/56.png" alt="Guy's and St Thomas' NHS Foundation Trust" class="hj-employer-logo" id="htflow-410" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-411" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-412" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Guy's and St Thomas' NHS Foundation Trust" id="htflow-413" hf-data-width="400px" hf-data-display="block">Guy's and St Thomas' NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-414" hf-data-width="400px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Transplant, Renal and Urology" id="htflow-415" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-416" hf-data-width="400px" hf-data-display="block">Speciality:</div> Transplant, Renal and Urology</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £43,923 p. a excl. LZ" id="htflow-417" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-418" hf-data-width="400px" hf-data-display="block">Salary:</div> £43,923 p. a excl. LZ</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-419" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/London/University_College_London_Hospitals_NHS_Foundation_Trust/Neurology/Neurology-v7077807?_ts=62673" title="Trust Grade Doctor (Stroke/Neurology)" class="clearfix" id="htflow-420" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-421" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Trust Grade Doctor (Stroke/Neurology)" id="htflow-422" hf-data-width="400px" hf-data-display="block">Trust Grade Doctor (Stroke/Neurology)</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)" id="htflow-423" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/92.png" alt="University College London Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-424" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-425" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-426" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: University College London Hospitals NHS Foundation Trust" id="htflow-427" hf-data-width="400px" hf-data-display="block">University College London Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-428" hf-data-width="400px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Neurology" id="htflow-429" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-430" hf-data-width="400px" hf-data-display="block">Speciality:</div> Neurology</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per Annum + London weighting ( Out-of-hours as per JD)" id="htflow-431" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-432" hf-data-width="400px" hf-data-display="block">Salary:</div> £49,909 per Annum + London weighting ( Out-of-hours as per JD)</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-433" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Bristol/Bristol/University_Hospitals_Bristol_Weston_NHS_Foundation_Trust/Dental_Surgery/Dental_Surgery-v7081843?_ts=62673" title="Junior Clinical Fellow in Cleft Lip and Palate" class="clearfix" id="htflow-434" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-435" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Clinical Fellow in Cleft Lip and Palate" id="htflow-436" hf-data-width="326px" hf-data-display="block">Junior Clinical Fellow in Cleft Lip and Palate</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Junior Clinical Fellow" id="htflow-437" hf-data-width="326px" hf-data-display="block">NHS Medical &amp; Dental: Junior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/326.png" alt="University Hospitals Bristol and Weston NHS Foundation Trust" class="hj-employer-logo" id="htflow-438" hf-data-width="300px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-439" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-440" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: University Hospitals Bristol and Weston NHS Foundation Trust" id="htflow-441" hf-data-width="326px" hf-data-display="block">University Hospitals Bristol and Weston NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Bristol" id="htflow-442" hf-data-width="326px" hf-data-display="block">Bristol</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Dental Surgery" id="htflow-443" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-444" hf-data-width="326px" hf-data-display="block">Speciality:</div> Dental Surgery</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 - £61,825 Dependant on experience (Equivalent of ST1-5)" id="htflow-445" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-446" hf-data-width="326px" hf-data-display="block">Salary:</div> £49,909 - £61,825 Dependant on experience (Equivalent of ST1-5)</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-447" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Surrey/Chertsey/Ashford_St_Peters_Hospitals_NHS_Foundation_Trust/Trauma_Orthopaedics/Trauma_Orthopaedics-v7010494?_ts=62673" title="Trust Grade Registrar - Trauma &amp; Orthopaedics" class="clearfix" id="htflow-448" hf-data-width="394px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-449" hf-data-width="394px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Trust Grade Registrar - Trauma &amp; Orthopaedics" id="htflow-450" hf-data-width="394px" hf-data-display="block">Trust Grade Registrar - Trauma &amp; Orthopaedics</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Trust registrar" id="htflow-451" hf-data-width="394px" hf-data-display="block">NHS Medical &amp; Dental: Trust registrar</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/237.png" alt="Ashford and St. Peter's Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-452" hf-data-width="394px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-453" hf-data-width="394px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-454" hf-data-width="394px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Ashford and St. Peter's Hospitals NHS Foundation Trust" id="htflow-455" hf-data-width="394px" hf-data-display="block">Ashford and St. Peter's Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Chertsey" id="htflow-456" hf-data-width="394px" hf-data-display="block">Chertsey</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Trauma &amp; Orthopaedics" id="htflow-457" hf-data-width="394px" hf-data-display="block"><div class="hj-field-caption" id="htflow-458" hf-data-width="394px" hf-data-display="block">Speciality:</div> Trauma &amp; Orthopaedics</div>
+				<div class="hj-salary hj-job-detail" title="Salary: per annum, plus £149 HCAS plus Additional Rota Payments" id="htflow-459" hf-data-width="394px" hf-data-display="block"><div class="hj-field-caption" id="htflow-460" hf-data-width="394px" hf-data-display="block">Salary:</div> per annum, plus £149 HCAS plus Additional Rota Payments</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-461" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/London/Moorfields_Eye_Hospital_NHS_Foundation_Trust/Medical/Medical-v7060397?_ts=62673" title="Clinical Research Fellow" class="clearfix" id="htflow-462" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-463" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Clinical Research Fellow" id="htflow-464" hf-data-width="326px" hf-data-display="block">Clinical Research Fellow</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Senior Clinical Fellow" id="htflow-465" hf-data-width="326px" hf-data-display="block">NHS Medical &amp; Dental: Senior Clinical Fellow</div>
+			</div>
+			
+			
+			<div class="hj-job-details" id="htflow-466" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-467" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Moorfields Eye Hospital NHS Foundation Trust" id="htflow-468" hf-data-width="326px" hf-data-display="block">Moorfields Eye Hospital NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-469" hf-data-width="326px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Medical" id="htflow-470" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-471" hf-data-width="326px" hf-data-display="block">Speciality:</div> Medical</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £47436.14 +£10,100 recruitment premium per annum" id="htflow-472" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-473" hf-data-width="326px" hf-data-display="block">Salary:</div> £47436.14 +£10,100 recruitment premium per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-474" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/North_Yorkshire/Harrogate/Harrogate_District_NHS_Foundation_Trust/Obstetrics_Gynaecology/Obstetrics_Gynaecology-v7063191?_ts=62673" title="LED ST1 in Obs &amp; Gynae" class="clearfix" id="htflow-475" hf-data-width="350px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-476" hf-data-width="350px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: LED ST1 in Obs &amp; Gynae" id="htflow-477" hf-data-width="350px" hf-data-display="block">LED ST1 in Obs &amp; Gynae</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Local Appointment" id="htflow-478" hf-data-width="350px" hf-data-display="block">NHS Medical &amp; Dental: Local Appointment</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/161.png" alt="Harrogate and District NHS Foundation Trust" class="hj-employer-logo" id="htflow-479" hf-data-width="350px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-480" hf-data-width="350px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-481" hf-data-width="350px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Harrogate and District NHS Foundation Trust" id="htflow-482" hf-data-width="350px" hf-data-display="block">Harrogate and District NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Harrogate" id="htflow-483" hf-data-width="350px" hf-data-display="block">Harrogate</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Obstetrics and Gynaecology" id="htflow-484" hf-data-width="350px" hf-data-display="block"><div class="hj-field-caption" id="htflow-485" hf-data-width="350px" hf-data-display="block">Speciality:</div> Obstetrics and Gynaecology</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum" id="htflow-486" hf-data-width="350px" hf-data-display="block"><div class="hj-field-caption" id="htflow-487" hf-data-width="350px" hf-data-display="block">Salary:</div> £49,909 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-488" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Birmingham_Black_Country/Birmingham/Birmingham_Womens_Childrens_NHS_Foundation_Trust/Paediatric_Ophthalmology/Paediatric_Ophthalmology-v7077078?_ts=62673" title="Senior Clinical Fellow for Paediatric Ophthalmology and Strabismus" class="clearfix" id="htflow-489" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-490" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Senior Clinical Fellow for Paediatric Ophthalmology and Strabismus" id="htflow-491" hf-data-width="326px" hf-data-display="block">Senior Clinical Fellow for Paediatric Ophthalmology and Strabismus</div>
+				<div class="hj-grade hj-job-detail" title="Grade: Clinical Fellow" id="htflow-492" hf-data-width="326px" hf-data-display="block">Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/386.png" alt="Birmingham Women's and Children's NHS Foundation Trust" class="hj-employer-logo" id="htflow-493" hf-data-width="300px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-494" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-495" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Birmingham Women's and Children's NHS Foundation Trust" id="htflow-496" hf-data-width="326px" hf-data-display="block">Birmingham Women's and Children's NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Birmingham" id="htflow-497" hf-data-width="326px" hf-data-display="block">Birmingham</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Paediatric Ophthalmology" id="htflow-498" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-499" hf-data-width="326px" hf-data-display="block">Speciality:</div> Paediatric Ophthalmology</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £61,825 - £70,425 per annum" id="htflow-500" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-501" hf-data-width="326px" hf-data-display="block">Salary:</div> £61,825 - £70,425 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-502" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Lancashire/Preston/Lancashire_Teaching_Hospitals_NHS_Foundation_Trust/Junior_Clinical_Fellow_Radiology/Junior_Clinical_Fellow_Radiology-v6892648?_ts=62673" title="Junior Clinical Fellow - Radiology" class="clearfix" id="htflow-503" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-504" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Clinical Fellow - Radiology" id="htflow-505" hf-data-width="400px" hf-data-display="block">Junior Clinical Fellow - Radiology</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Junior Clinical Fellow" id="htflow-506" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Junior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/824.png" alt="Lancashire Teaching Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-507" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-508" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-509" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Lancashire Teaching Hospitals NHS Foundation Trust" id="htflow-510" hf-data-width="400px" hf-data-display="block">Lancashire Teaching Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Preston" id="htflow-511" hf-data-width="400px" hf-data-display="block">Preston</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Junior Clinical Fellow in Radiology" id="htflow-512" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-513" hf-data-width="400px" hf-data-display="block">Speciality:</div> Junior Clinical Fellow in Radiology</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum" id="htflow-514" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-515" hf-data-width="400px" hf-data-display="block">Salary:</div> £49,909 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-516" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Buckinghamshire/Aylesbury/Buckinghamshire_Healthcare_NHS_Trust/Trauma_Orthopaedics/Trauma_Orthopaedics-v6941202?_ts=62673" title="Advanced Spinal Fellowship in T&amp;O" class="clearfix" id="htflow-517" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-518" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Advanced Spinal Fellowship in T&amp;O" id="htflow-519" hf-data-width="400px" hf-data-display="block">Advanced Spinal Fellowship in T&amp;O</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Senior Clinical Fellow" id="htflow-520" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Senior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/280.png" alt="Buckinghamshire Healthcare NHS Trust" class="hj-employer-logo" id="htflow-521" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-522" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-523" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Buckinghamshire Healthcare NHS Trust" id="htflow-524" hf-data-width="400px" hf-data-display="block">Buckinghamshire Healthcare NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Aylesbury" id="htflow-525" hf-data-width="400px" hf-data-display="block">Aylesbury</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Trauma &amp; Orthopaedics" id="htflow-526" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-527" hf-data-width="400px" hf-data-display="block">Speciality:</div> Trauma &amp; Orthopaedics</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 - £70,425 per annum" id="htflow-528" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-529" hf-data-width="400px" hf-data-display="block">Salary:</div> £49,909 - £70,425 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-530" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/Croydon/Croydon_Health_Services_NHS_Trust/General_Surgery/General_Surgery-v7015769?_ts=62673" title="CT2 - General Surgery" class="clearfix" id="htflow-531" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-532" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: CT2 - General Surgery" id="htflow-533" hf-data-width="326px" hf-data-display="block">CT2 - General Surgery</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Specialty Trainee (ST1/2)" id="htflow-534" hf-data-width="326px" hf-data-display="block">NHS Medical &amp; Dental: Specialty Trainee (ST1/2)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/2198.png" alt="Croydon Health Services NHS Trust" class="hj-employer-logo" id="htflow-535" hf-data-width="300px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-536" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-537" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Croydon Health Services NHS Trust" id="htflow-538" hf-data-width="326px" hf-data-display="block">Croydon Health Services NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Croydon" id="htflow-539" hf-data-width="326px" hf-data-display="block">Croydon</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: General Surgery" id="htflow-540" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-541" hf-data-width="326px" hf-data-display="block">Speciality:</div> General Surgery</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum" id="htflow-542" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-543" hf-data-width="326px" hf-data-display="block">Salary:</div> £49,909 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-544" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/West_Yorkshire/Bradford/Bradford_Teaching_Hospitals_NHS_Foundation_Trust/Ear_Nose_Throat/Ear_Nose_Throat-v7016240?_ts=62673" title="Senior Clinical Fellow" class="clearfix" id="htflow-545" hf-data-width="382px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-546" hf-data-width="382px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Senior Clinical Fellow" id="htflow-547" hf-data-width="382px" hf-data-display="block">Senior Clinical Fellow</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)" id="htflow-548" hf-data-width="382px" hf-data-display="block">NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/153.png" alt="Bradford Teaching Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-549" hf-data-width="382px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-550" hf-data-width="382px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-551" hf-data-width="382px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Bradford Teaching Hospitals NHS Foundation Trust" id="htflow-552" hf-data-width="382px" hf-data-display="block">Bradford Teaching Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Bradford" id="htflow-553" hf-data-width="382px" hf-data-display="block">Bradford</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Ear, Nose and Throat" id="htflow-554" hf-data-width="382px" hf-data-display="block"><div class="hj-field-caption" id="htflow-555" hf-data-width="382px" hf-data-display="block">Speciality:</div> Ear, Nose and Throat</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum" id="htflow-556" hf-data-width="382px" hf-data-display="block"><div class="hj-field-caption" id="htflow-557" hf-data-width="382px" hf-data-display="block">Salary:</div> £49,909 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-558" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/London/University_College_London_Hospitals_NHS_Foundation_Trust/Critical_Care/Critical_Care-v7061476?_ts=62673" title="Clinical Fellow (FY3, CT1-2)" class="clearfix" id="htflow-559" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-560" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Clinical Fellow (FY3, CT1-2)" id="htflow-561" hf-data-width="400px" hf-data-display="block">Clinical Fellow (FY3, CT1-2)</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)" id="htflow-562" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/92.png" alt="University College London Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-563" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-564" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-565" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: University College London Hospitals NHS Foundation Trust" id="htflow-566" hf-data-width="400px" hf-data-display="block">University College London Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-567" hf-data-width="400px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Critical Care" id="htflow-568" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-569" hf-data-width="400px" hf-data-display="block">Speciality:</div> Critical Care</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum + London weighting (see JD for out-of-hours)" id="htflow-570" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-571" hf-data-width="400px" hf-data-display="block">Salary:</div> £49,909 per annum + London weighting (see JD for out-of-hours)</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-572" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Lancashire/Preston/Lancashire_Teaching_Hospitals_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v6895170?_ts=62673" title="Junior Education Clinical Fellow in Emergency Medicine" class="clearfix" id="htflow-573" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-574" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Education Clinical Fellow in Emergency Medicine" id="htflow-575" hf-data-width="400px" hf-data-display="block">Junior Education Clinical Fellow in Emergency Medicine</div>
+				<div class="hj-grade hj-job-detail" title="Grade: Junior Education Clinical Fellow" id="htflow-576" hf-data-width="400px" hf-data-display="block">Junior Education Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/824.png" alt="Lancashire Teaching Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-577" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-578" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-579" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Lancashire Teaching Hospitals NHS Foundation Trust" id="htflow-580" hf-data-width="400px" hf-data-display="block">Lancashire Teaching Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Preston" id="htflow-581" hf-data-width="400px" hf-data-display="block">Preston</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Emergency Medicine" id="htflow-582" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-583" hf-data-width="400px" hf-data-display="block">Speciality:</div> Emergency Medicine</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 Per Annum" id="htflow-584" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-585" hf-data-width="400px" hf-data-display="block">Salary:</div> £49,909 Per Annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-586" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Lancashire/Preston/Lancashire_Teaching_Hospitals_NHS_Foundation_Trust/Obstetrics_Gynaecology/Obstetrics_Gynaecology-v6937100?_ts=62673" title="Junior Clinical Fellow in Obstetrics &amp; Gynaecology" class="clearfix" id="htflow-587" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-588" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Junior Clinical Fellow in Obstetrics &amp; Gynaecology" id="htflow-589" hf-data-width="400px" hf-data-display="block">Junior Clinical Fellow in Obstetrics &amp; Gynaecology</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Junior Clinical Fellow" id="htflow-590" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Junior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/824.png" alt="Lancashire Teaching Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-591" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-592" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-593" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Lancashire Teaching Hospitals NHS Foundation Trust" id="htflow-594" hf-data-width="400px" hf-data-display="block">Lancashire Teaching Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Preston" id="htflow-595" hf-data-width="400px" hf-data-display="block">Preston</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Obstetrics &amp; Gynaecology" id="htflow-596" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-597" hf-data-width="400px" hf-data-display="block">Speciality:</div> Obstetrics &amp; Gynaecology</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum pro rata" id="htflow-598" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-599" hf-data-width="400px" hf-data-display="block">Salary:</div> £49,909 per annum pro rata</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-600" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/South_Yorkshire/Rotherham/Rotherham_Doncaster_South_Humber_NHS_Foundation_Trust/CAMHS_Trust_Grade_Doctor_Child_Adolescent_Psychiatry/CAMHS_Trust_Grade_Doctor_Child_Adolescent_Psychiatry-v6986907?_ts=62673" title="CAMHS Trust Grade Doctor in Child and Adolescent Psychiatry" class="clearfix" id="htflow-601" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-602" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: CAMHS Trust Grade Doctor in Child and Adolescent Psychiatry" id="htflow-603" hf-data-width="400px" hf-data-display="block">CAMHS Trust Grade Doctor in Child and Adolescent Psychiatry</div>
+				<div class="hj-grade hj-job-detail" title="Grade: Salary Scale MT01-05 dependent upon experience" id="htflow-604" hf-data-width="400px" hf-data-display="block">Salary Scale MT01-05 dependent upon experience</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/340.png" alt="Rotherham Doncaster and South Humber NHS Foundation Trust" class="hj-employer-logo" id="htflow-605" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-606" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-607" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Rotherham Doncaster and South Humber NHS Foundation Trust" id="htflow-608" hf-data-width="400px" hf-data-display="block">Rotherham Doncaster and South Humber NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Rotherham" id="htflow-609" hf-data-width="400px" hf-data-display="block">Rotherham</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: CAMHS - Trust Grade Doctor in Child and Adolescent Psychiatry" id="htflow-610" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-611" hf-data-width="400px" hf-data-display="block">Speciality:</div> CAMHS - Trust Grade Doctor in Child and Adolescent Psychiatry</div>
+				<div class="hj-salary hj-job-detail" title="Salary: per annum, pro rata" id="htflow-612" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-613" hf-data-width="400px" hf-data-display="block">Salary:</div> per annum, pro rata</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-614" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/London/University_College_London_Hospitals_NHS_Foundation_Trust/Neurology/Neurology-v7056823?_ts=62673" title="Trust Grade Doctor (Neurology/Stroke)" class="clearfix" id="htflow-615" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-616" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Trust Grade Doctor (Neurology/Stroke)" id="htflow-617" hf-data-width="400px" hf-data-display="block">Trust Grade Doctor (Neurology/Stroke)</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)" id="htflow-618" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/92.png" alt="University College London Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-619" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-620" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-621" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: University College London Hospitals NHS Foundation Trust" id="htflow-622" hf-data-width="400px" hf-data-display="block">University College London Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-623" hf-data-width="400px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Neurology" id="htflow-624" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-625" hf-data-width="400px" hf-data-display="block">Speciality:</div> Neurology</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 Per annum + London weighting (Out of hours as per JD)" id="htflow-626" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-627" hf-data-width="400px" hf-data-display="block">Salary:</div> £49,909 Per annum + London weighting (Out of hours as per JD)</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-628" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/-v7068795?_ts=62673" title="Education Academy Fellow - Neonates" class="clearfix" id="htflow-629" hf-data-width="275px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-630" hf-data-width="275px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Education Academy Fellow - Neonates" id="htflow-631" hf-data-width="275px" hf-data-display="block">Education Academy Fellow - Neonates</div>
+				<div class="hj-grade hj-job-detail" title="Grade: MN37" id="htflow-632" hf-data-width="275px" hf-data-display="block">MN37</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/40.png" alt="Barts Health NHS Trust" class="hj-employer-logo" id="htflow-633" hf-data-width="275px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-634" hf-data-width="275px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-635" hf-data-width="275px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Barts Health NHS Trust" id="htflow-636" hf-data-width="275px" hf-data-display="block">Barts Health NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-637" hf-data-width="275px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: NICU" id="htflow-638" hf-data-width="275px" hf-data-display="block"><div class="hj-field-caption" id="htflow-639" hf-data-width="275px" hf-data-display="block">Speciality:</div> NICU</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £41,750 - £64,288 Per Annum" id="htflow-640" hf-data-width="275px" hf-data-display="block"><div class="hj-field-caption" id="htflow-641" hf-data-width="275px" hf-data-display="block">Salary:</div> £41,750 - £64,288 Per Annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-642" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Devon/Torquay/Torbay_South_Devon_NHS_Foundation_Trust/Amended_HR_recruitment/Amended_HR_recruitment-v6961795?_ts=62673" title="Locally Employed Doctor in Anaesthesia" class="clearfix" id="htflow-643" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-644" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Locally Employed Doctor in Anaesthesia" id="htflow-645" hf-data-width="326px" hf-data-display="block">Locally Employed Doctor in Anaesthesia</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)" id="htflow-646" hf-data-width="326px" hf-data-display="block">NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/609.png" alt="Torbay and South Devon NHS Foundation Trust" class="hj-employer-logo" id="htflow-647" hf-data-width="275px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-648" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-649" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Torbay and South Devon NHS Foundation Trust" id="htflow-650" hf-data-width="326px" hf-data-display="block">Torbay and South Devon NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Torquay" id="htflow-651" hf-data-width="326px" hf-data-display="block">Torquay</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Amended HR recruitment" id="htflow-652" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-653" hf-data-width="326px" hf-data-display="block">Speciality:</div> Amended HR recruitment</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £55,329 pa" id="htflow-654" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-655" hf-data-width="326px" hf-data-display="block">Salary:</div> £55,329 pa</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-656" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/West_Sussex/Worthing/University_Hospitals_Sussex_NHS_Foundation_Trust/Medicine/Medicine-v7027563?_ts=62673" title="Trust Doctor CT1-2 equivalent in General and Elderly Medicine" class="clearfix" id="htflow-657" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-658" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Trust Doctor CT1-2 equivalent in General and Elderly Medicine" id="htflow-659" hf-data-width="400px" hf-data-display="block">Trust Doctor CT1-2 equivalent in General and Elderly Medicine</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Core Trainee (CT1/2)" id="htflow-660" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Core Trainee (CT1/2)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/295.png" alt="279 University Hospitals Sussex NHS Foundation Trust" class="hj-employer-logo" id="htflow-661" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-662" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-663" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: 279 University Hospitals Sussex NHS Foundation Trust" id="htflow-664" hf-data-width="400px" hf-data-display="block">279 University Hospitals Sussex NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Worthing" id="htflow-665" hf-data-width="400px" hf-data-display="block">Worthing</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Medicine" id="htflow-666" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-667" hf-data-width="400px" hf-data-display="block">Speciality:</div> Medicine</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £41,750 - £54,468 per annum pro rata" id="htflow-668" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-669" hf-data-width="400px" hf-data-display="block">Salary:</div> £41,750 - £54,468 per annum pro rata</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-670" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Lancashire/Wigan/Wrightington_Wigan_Leigh_Teaching_Hospitals_NHS_Foundation_Trust/Emergency_Medicine/Emergency_Medicine-v7058050?_ts=62673" title="Resident Doctors in Emergency Medicine (FY2/ST1-2) August 2025" class="clearfix" id="htflow-671" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-672" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Resident Doctors in Emergency Medicine (FY2/ST1-2) August 2025" id="htflow-673" hf-data-width="400px" hf-data-display="block">Resident Doctors in Emergency Medicine (FY2/ST1-2) August 2025</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: MT02/MT03 (depending on experience)" id="htflow-674" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: MT02/MT03 (depending on experience)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/150.png" alt="Wrightington, Wigan and Leigh Teaching Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-675" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-676" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-677" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Wrightington, Wigan and Leigh Teaching Hospitals NHS Foundation Trust" id="htflow-678" hf-data-width="400px" hf-data-display="block">Wrightington, Wigan and Leigh Teaching Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Wigan" id="htflow-679" hf-data-width="400px" hf-data-display="block">Wigan</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Emergency Medicine" id="htflow-680" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-681" hf-data-width="400px" hf-data-display="block">Speciality:</div> Emergency Medicine</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £42,008 - £49,909 per annum" id="htflow-682" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-683" hf-data-width="400px" hf-data-display="block">Salary:</div> £42,008 - £49,909 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-684" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Bristol/Bristol/University_Hospitals_Bristol_Weston_NHS_Foundation_Trust/Surgery/Surgery-v7049581?_ts=62673" title="Clinical Fellow in Ear, Nose and Throat Surgery" class="clearfix" id="htflow-685" hf-data-width="326px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-686" hf-data-width="326px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Clinical Fellow in Ear, Nose and Throat Surgery" id="htflow-687" hf-data-width="326px" hf-data-display="block">Clinical Fellow in Ear, Nose and Throat Surgery</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)" id="htflow-688" hf-data-width="326px" hf-data-display="block">NHS Medical &amp; Dental: Local Appointment nodal point 3 (MT03)</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/326.png" alt="University Hospitals Bristol and Weston NHS Foundation Trust" class="hj-employer-logo" id="htflow-689" hf-data-width="300px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-690" hf-data-width="326px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-691" hf-data-width="326px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: University Hospitals Bristol and Weston NHS Foundation Trust" id="htflow-692" hf-data-width="326px" hf-data-display="block">University Hospitals Bristol and Weston NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Bristol" id="htflow-693" hf-data-width="326px" hf-data-display="block">Bristol</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Surgery" id="htflow-694" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-695" hf-data-width="326px" hf-data-display="block">Speciality:</div> Surgery</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 pa pro rata" id="htflow-696" hf-data-width="326px" hf-data-display="block"><div class="hj-field-caption" id="htflow-697" hf-data-width="326px" hf-data-display="block">Salary:</div> £49,909 pa pro rata</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-698" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/London/Guys_St_Thomas_NHS_Foundation_Trust/Simulation/Simulation-v7050792?_ts=62673" title="Simulation Fellow in Medical Education/HCID" class="clearfix" id="htflow-699" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-700" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Simulation Fellow in Medical Education/HCID" id="htflow-701" hf-data-width="400px" hf-data-display="block">Simulation Fellow in Medical Education/HCID</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Junior Clinical Fellow" id="htflow-702" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Junior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/56.png" alt="Guy's and St Thomas' NHS Foundation Trust" class="hj-employer-logo" id="htflow-703" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-704" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-705" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Guy's and St Thomas' NHS Foundation Trust" id="htflow-706" hf-data-width="400px" hf-data-display="block">Guy's and St Thomas' NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-707" hf-data-width="400px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Simulation" id="htflow-708" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-709" hf-data-width="400px" hf-data-display="block">Speciality:</div> Simulation</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £43,923 - £63,152 p.a. excl. LZ" id="htflow-710" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-711" hf-data-width="400px" hf-data-display="block">Salary:</div> £43,923 - £63,152 p.a. excl. LZ</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-712" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Nottinghamshire/Nottingham/Nottingham_University_Hospitals_NHS_Trust/ENTOTOLARYNGOLOGY/ENTOTOLARYNGOLOGY-v7054784?_ts=62673" title="Clinical Teaching Fellow in ENT" class="clearfix" id="htflow-713" hf-data-width="319.539px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-714" hf-data-width="319.539px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Clinical Teaching Fellow in ENT" id="htflow-715" hf-data-width="319.539px" hf-data-display="block">Clinical Teaching Fellow in ENT</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Senior Clinical Fellow" id="htflow-716" hf-data-width="319.539px" hf-data-display="block">NHS Medical &amp; Dental: Senior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/358.png" alt="Nottingham University Hospitals NHS Trust" class="hj-employer-logo" id="htflow-717" hf-data-width="281px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-718" hf-data-width="319.539px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-719" hf-data-width="319.539px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Nottingham University Hospitals NHS Trust" id="htflow-720" hf-data-width="319.539px" hf-data-display="block">Nottingham University Hospitals NHS Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Nottingham" id="htflow-721" hf-data-width="319.539px" hf-data-display="block">Nottingham</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: ENT/OTOLARYNGOLOGY" id="htflow-722" hf-data-width="319.539px" hf-data-display="block"><div class="hj-field-caption" id="htflow-723" hf-data-width="319.539px" hf-data-display="block">Speciality:</div> ENT/OTOLARYNGOLOGY</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909-£55,868" id="htflow-724" hf-data-width="319.539px" hf-data-display="block"><div class="hj-field-caption" id="htflow-725" hf-data-width="319.539px" hf-data-display="block">Salary:</div> £49,909-£55,868</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even" id="htflow-726" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/Merseyside/Liverpool/Liverpool_University_Hospitals_NHS_Foundation_Trust/Ophthalmology/Ophthalmology-v7055018?_ts=62673" title="Fellowship in Cornea and External Eye Disease" class="clearfix" id="htflow-727" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-728" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Fellowship in Cornea and External Eye Disease" id="htflow-729" hf-data-width="400px" hf-data-display="block">Fellowship in Cornea and External Eye Disease</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Clinical Research Fellow" id="htflow-730" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Clinical Research Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/131.png" alt="Liverpool University Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-731" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-732" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-733" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Liverpool University Hospitals NHS Foundation Trust" id="htflow-734" hf-data-width="400px" hf-data-display="block">Liverpool University Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Liverpool" id="htflow-735" hf-data-width="400px" hf-data-display="block">Liverpool</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Ophthalmology" id="htflow-736" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-737" hf-data-width="400px" hf-data-display="block">Speciality:</div> Ophthalmology</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 - £70,425 per Annum (dependant on experience)" id="htflow-738" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-739" hf-data-width="400px" hf-data-display="block">Salary:</div> £49,909 - £70,425 per Annum (dependant on experience)</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-odd" id="htflow-740" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/South_Yorkshire/Sheffield/Sheffield_Teaching_Hospitals_NHS_Foundation_Trust/Ophthalmology/Ophthalmology-v7055106?_ts=62673" title="Clinical &amp; Teaching Fellow in Ophthalmology" class="clearfix" id="htflow-741" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-742" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Clinical &amp; Teaching Fellow in Ophthalmology" id="htflow-743" hf-data-width="400px" hf-data-display="block">Clinical &amp; Teaching Fellow in Ophthalmology</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Junior Clinical Fellow" id="htflow-744" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Junior Clinical Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/335.png" alt="Sheffield Teaching Hospitals NHS Foundation Trust" class="hj-employer-logo" id="htflow-745" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-746" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-747" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Sheffield Teaching Hospitals NHS Foundation Trust" id="htflow-748" hf-data-width="400px" hf-data-display="block">Sheffield Teaching Hospitals NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: Sheffield" id="htflow-749" hf-data-width="400px" hf-data-display="block">Sheffield</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Ophthalmology" id="htflow-750" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-751" hf-data-width="400px" hf-data-display="block">Speciality:</div> Ophthalmology</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 per annum" id="htflow-752" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-753" hf-data-width="400px" hf-data-display="block">Salary:</div> £49,909 per annum</div>
+			</div>
+
+		</a>
+	</li>
+
+	<li class="hj-job row-even last" id="htflow-754" hf-data-width="326px" hf-data-display="list-item">
+		<a href="/job/UK/London/London/Guys_St_Thomas_NHS_Foundation_Trust/Simulation/Simulation-v7040850?_ts=62673" title="Simulation/Medical Education Fellow" class="clearfix" id="htflow-755" hf-data-width="400px" hf-data-display="inline-block">
+			<div class="hj-job-list-entry" id="htflow-756" hf-data-width="400px" hf-data-display="block">
+				
+				<div class="hj-jobtitle hj-job-detail" title="Job title: Simulation/Medical Education Fellow" id="htflow-757" hf-data-width="400px" hf-data-display="block">Simulation/Medical Education Fellow</div>
+				<div class="hj-grade hj-job-detail" title="Grade: NHS Medical &amp; Dental: Simulation Fellow" id="htflow-758" hf-data-width="400px" hf-data-display="block">NHS Medical &amp; Dental: Simulation Fellow</div>
+			</div>
+			
+			<img src="https://static.trac.jobs/employer-logos/56.png" alt="Guy's and St Thomas' NHS Foundation Trust" class="hj-employer-logo" id="htflow-759" hf-data-width="400px" hf-data-display="inline">
+			<div class="hj-job-details" id="htflow-760" hf-data-width="400px" hf-data-display="block">
+				<div class="hj-employer-details" id="htflow-761" hf-data-width="400px" hf-data-display="block">
+					<div class="hj-employername hj-job-detail" title="Employer: Guy's and St Thomas' NHS Foundation Trust" id="htflow-762" hf-data-width="400px" hf-data-display="block">Guy's and St Thomas' NHS Foundation Trust</div>, <div class="hj-locationtown hj-job-detail" title="Location: London" id="htflow-763" hf-data-width="400px" hf-data-display="block">London</div>
+				</div>
+				<div class="hj-primaryspeciality hj-job-detail" title="Speciality: Simulation" id="htflow-764" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-765" hf-data-width="400px" hf-data-display="block">Speciality:</div> Simulation</div>
+				<div class="hj-salary hj-job-detail" title="Salary: £49,909 - £70,425 Per Annum" id="htflow-766" hf-data-width="400px" hf-data-display="block"><div class="hj-field-caption" id="htflow-767" hf-data-width="400px" hf-data-display="block">Salary:</div> £49,909 - £70,425 Per Annum</div>
+			</div>
+
+		</a>
+	</li>
+
+
+		</ol>
+		
+			<div class="hj-job-pager" id="htflow-768" hf-data-width="358px" hf-data-display="block">
+				<nav class="recordset-pager " aria-label="Pagination" id="htflow-769" hf-data-width="358px" hf-data-display="block">
+	<ul class="pagination" id="htflow-770" hf-data-width="358px" hf-data-display="flex">
+		
+		
+		
+
+
+		
+			<li class="page-item active z-2" id="htflow-771" hf-data-width="35.2812px" hf-data-display="list-item">
+				<a class="page-link" aria-label="Page 1" data-bs-toggle="tooltip" data-tooltip-aria-hidden="true" href="" aria-current="page" data-bs-original-title="Page 1: current page" id="htflow-772" hf-data-width="35.2812px" hf-data-display="inline-block">
+					1
+				</a>
+			</li>
+		
+			<li class="page-item " id="htflow-773" hf-data-width="34.2812px" hf-data-display="list-item">
+				<a class="page-link" aria-label="Page 2" data-bs-toggle="tooltip" data-tooltip-aria-hidden="true" href="/job_list?JobSearch_q=&amp;JobSearch_d=&amp;JobSearch_g=441&amp;JobSearch_re=_POST&amp;JobSearch_re_0=1&amp;JobSearch_re_1=1-_-_-&amp;JobSearch_re_2=1-_-_--_-_-&amp;JobSearch_Submit=Search&amp;_tr=JobSearch&amp;_ts=62673&amp;_pg=2&amp;_pgid=" data-bs-original-title="Page 2" id="htflow-774" hf-data-width="35.2812px" hf-data-display="inline-block">
+					2
+				</a>
+			</li>
+		
+
+
+		
+			<li class="page-item" id="htflow-775" hf-data-width="49px" hf-data-display="list-item">
+				<a class="page-link icon-only page-button-image" aria-label="Next page" href="/job_list?JobSearch_q=&amp;JobSearch_d=&amp;JobSearch_g=441&amp;JobSearch_re=_POST&amp;JobSearch_re_0=1&amp;JobSearch_re_1=1-_-_-&amp;JobSearch_re_2=1-_-_--_-_-&amp;JobSearch_Submit=Search&amp;_tr=JobSearch&amp;_ts=62673&amp;_pg=2&amp;_pgid=" data-bs-toggle="tooltip" data-tooltip-aria-hidden="true" data-bs-original-title="Next page" id="htflow-776" hf-data-width="50px" hf-data-display="flex">
+					<span class="material-icons" aria-hidden="true" id="htflow-777" hf-data-width="24px" hf-data-display="block">play_arrow</span>
+				</a>
+			</li>
+		
+		
+		
+	</ul>
+</nav>
+
+			</div>
+		
+	
+</div>
+	
+
+
+						</main>
+						
+							
+								<div id="htflow-778" class="col-lg-3 col-12" hf-data-width="382px" hf-data-display="block">
+									
+	
+		<div id="htflow-779" class="hj-fancy-container hj-quick-search mx-auto" hf-data-width="358px" hf-data-display="block">
+	<h3 id="htflow-780" hf-data-width="358px" hf-data-display="block">Find jobs in...</h3>
+	<form name="SelectSector" id="htflow-781" action="/job_list" method="get" hf-data-width="358px" hf-data-display="block"><div class="full_validation alert alert-danger" role="alert" aria-relevant="additions" tabindex="-1" style="display: none;" id="htflow-782" hf-data-width="auto" hf-data-display="none"></div>
+	<fieldset id="htflow-783" class="trac-form-group " hf-data-width="358px" hf-data-display="block">
+
+	
+
+	
+
+	
+	<div class="fieldset-fields " id="htflow-784" hf-data-width="358px" hf-data-display="block">
+		<div class="form-widget-container trac-form-group caption-above mx-0 " id="htflow-785" hf-data-width="358px" hf-data-display="flex">
+	<label class="order-1 form-label visually-hidden" for="SelectSector.sectorid" id="htflow-786" hf-data-width="1px" hf-data-display="block">Find jobs in sector...<span class="required-suffix" id="htflow-787" hf-data-width="auto" hf-data-display="inline"><span aria-hidden="true" id="htflow-788" hf-data-width="auto" hf-data-display="inline"></span></span></label>
+	<div class="form-widget order-4" id="htflow-789" hf-data-width="358px" hf-data-display="block">
+		
+		<select id="htflow-790" name="SelectSector_sectorid" class="form-control form-select" aria-describedby="SelectSector.sectorid_validation" aria-required="true" hf-data-width="358px" hf-data-display="block">
+<option selected="" value="" id="htflow-791" hf-data-width="auto" hf-data-display="block">Choose a sector...</option><option value="1" id="htflow-792" hf-data-width="auto" hf-data-display="block">Nursing and Midwifery</option><option value="5" id="htflow-793" hf-data-width="auto" hf-data-display="block">Health Science Services</option><option value="6" id="htflow-794" hf-data-width="auto" hf-data-display="block">Support Services</option><option value="7" id="htflow-795" hf-data-width="auto" hf-data-display="block">Administrative Services</option><option value="2" id="htflow-796" hf-data-width="auto" hf-data-display="block">Medical and Dental</option><option value="3" id="htflow-797" hf-data-width="auto" hf-data-display="block">Emergency Services</option><option value="4" id="htflow-798" hf-data-width="auto" hf-data-display="block">Allied Health Professions</option><option value="119" id="htflow-799" hf-data-width="auto" hf-data-display="block">Personal Social Services</option><option value="8" id="htflow-800" hf-data-width="auto" hf-data-display="block">Directors</option><option value="9" id="htflow-801" hf-data-width="auto" hf-data-display="block">Volunteers</option><option value="10" id="htflow-802" hf-data-width="auto" hf-data-display="block">Apprenticeships</option></select>
+
+
+		
+	</div>
+	
+<div id="htflow-803" class="form-validation invalid-feedback order-5 hide" aria-live="off" hf-data-width="100%" hf-data-display="none">
+	
+</div>
+
+	
+		
+	
+</div>
+
+	</div>
+
+	
+
+</fieldset>
+
+	
+		<div class="endwidgets form-widget-container" id="htflow-804" hf-data-width="358px" hf-data-display="block">	<input id="htflow-805" type="submit" name="SelectSector_submit" value="Search" class="" hf-data-width="63.7969px" hf-data-display="inline-block"></div>
+	
+	<input type="hidden" name="_tr" value="SelectSector" id="htflow-806" hf-data-width="auto" hf-data-display="none"><input type="hidden" name="_ts" value="62673" id="htflow-807" hf-data-width="auto" hf-data-display="none">
+</form>
+
+
+</div>
+
+	
+
+	
+		<aside id="htflow-808" class="hj-fancy-container clearfix" hf-data-width="358px" hf-data-display="block">
+	<h3 id="htflow-809" hf-data-width="358px" hf-data-display="block">Featured jobs:</h3>
+	
+		<div class="hj-box-content" id="htflow-810" hf-data-width="358px" hf-data-display="block">
+			<h4 id="htflow-811" hf-data-width="358px" hf-data-display="block">Consultant Admiral Nurse for the LGBTQ+ Community</h4>
+			<p id="htflow-812" hf-data-width="358px" hf-data-display="block"></p><p class="MsoNormal" id="htflow-813" hf-data-width="358px" hf-data-display="block">Dementia UK is seeking a Consultant Admiral Nurse to provide expert clinical advice and support to the LGBTQ+ community facing challenges related to dementia.</p>
+<p class="MsoNormal" id="htflow-814" hf-data-width="358px" hf-data-display="block">In this role, you will ensure that the needs of LGBTQ+ people affected by dementia are represented in national policy, research, and clinical guidance. You will provide strategic, professional and clinical leadership in Admiral Nursing, contributing to and influencing educational programmes. Developing resources to raise awareness, foster new partnerships, and advocate best practice in supporting the LGBTQ+ community will be a key part of your work.</p>
+<p class="MsoNormal" id="htflow-815" hf-data-width="358px" hf-data-display="block">You will offer clinical advice and support through telephone, online, and clinic-based services, dedicating at least 25% of your time to providing specialist guidance to improve the wellbeing of LGBTQ+ individuals who may need advice or support with understanding and coping with a dementia diagnosis in their family. Please click for further information.&nbsp;</p><p id="htflow-816" hf-data-width="358px" hf-data-display="block"></p>
+			<a href="/job/UK/London/Home_working/Dementia_UK/Consultant_Admiral_Nurse_LGBTQ_Community/Consultant_Admiral_Nurse_LGBTQ_Community-v7051477" title="More information about Consultant Admiral Nurse for the LGBTQ+ Community" class="hj-button" id="htflow-817" hf-data-width="39.0703px" hf-data-display="inline-block">More</a>
+			<img src="https://static.trac.jobs/employer-logos/featured/4511/auto.png" alt="Dementia UK" id="htflow-818" hf-data-width="160px" hf-data-display="inline">
+		</div>
+	
+</aside>
+
+	
+
+
+								</div>
+							
+						
+					</section>
+				</div>
+
+				<ol class="breadcrumbs col-12 clearfix" id="htflow-819" hf-data-width="382px" hf-data-display="block"><li id="htflow-820" hf-data-width="358px" hf-data-display="list-item"><a href="/select_sector" title="Go back to Sector" id="htflow-821" hf-data-width="46.5938px" hf-data-display="inline-block">Sector</a></li><li id="htflow-822" hf-data-width="358px" hf-data-display="list-item"><a href="/job_search/s2?_ts=62673" title="Go back to Medical and Dental job search" id="htflow-823" hf-data-width="214.398px" hf-data-display="inline-block">Medical and Dental job search</a></li><li class="current" id="htflow-824" hf-data-width="358px" hf-data-display="list-item">Job list</li></ol>
+
+			</section>
+		</section>
+	</div>
+</div>
+
+	</div>
+
+	<footer id="htflow-825" hf-data-width="390px" hf-data-display="block">
+		<div class="hj-central-body row" id="htflow-826" hf-data-width="390px" hf-data-display="flex">
+			<ul class="col-md-4 BrandText" id="htflow-827" hf-data-width="390px" hf-data-display="block"><li class="title" id="htflow-828" hf-data-width="366px" hf-data-display="list-item"><h2 id="htflow-829" hf-data-width="366px" hf-data-display="block">About this site</h2></li><li id="htflow-830" hf-data-width="366px" hf-data-display="list-item"><a href="/about/contact-us" id="htflow-831" hf-data-width="89.2344px" hf-data-display="inline-block">Contact us</a></li><li id="htflow-832" hf-data-width="366px" hf-data-display="list-item"><a href="/about" id="htflow-833" hf-data-width="74.7109px" hf-data-display="inline-block">About us</a></li><li id="htflow-834" hf-data-width="366px" hf-data-display="list-item"><a href="/about/accessibility" id="htflow-835" hf-data-width="105.406px" hf-data-display="inline-block">Accessibility</a></li><li id="htflow-836" hf-data-width="366px" hf-data-display="list-item"><a href="/about/privacy" title="Our privacy notice" id="htflow-837" hf-data-width="118.93px" hf-data-display="inline-block">Privacy notice</a></li><li id="htflow-838" hf-data-width="366px" hf-data-display="list-item"><a href="https://www.civica.com/en-gb/policies-and-statements/terms--conditions" title="Website terms and conditions of use" target="_blank" id="htflow-839" hf-data-width="176.391px" hf-data-display="inline-block">Terms and conditions</a></li><li id="htflow-840" hf-data-width="366px" hf-data-display="list-item"><a href="/about/sitemap" id="htflow-841" hf-data-width="73.5625px" hf-data-display="inline-block">Site Map</a></li><li id="htflow-842" hf-data-width="366px" hf-data-display="list-item"><a href="/about/cookie-policy" id="htflow-843" hf-data-width="112.812px" hf-data-display="inline-block">Cookie policy</a></li></ul>
+
+			<ul class="col-md-4 BrandText" id="htflow-844" hf-data-width="390px" hf-data-display="block">
+				<li class="title" id="htflow-845" hf-data-width="366px" hf-data-display="list-item"><h2 id="htflow-846" hf-data-width="366px" hf-data-display="block">Our other sites</h2></li>
+				<li id="htflow-847" hf-data-width="366px" hf-data-display="list-item">
+					<a href="http://www.nursingnetuk.com" title="NursingNetUK" id="htflow-848" hf-data-width="123.766px" hf-data-display="inline-block">
+						NursingNetUK
+					</a>
+				</li>
+				<li id="htflow-849" hf-data-width="366px" hf-data-display="list-item">
+					<a href="http://www.nhsjobs.com" title="NHSJobs.com - Not affiliated with the NHS or Department of Health" id="htflow-850" hf-data-width="115.234px" hf-data-display="inline-block">
+						NHSJobs.com
+					</a>
+				</li>
+			</ul>
+
+			<ul class="col-md-4 BrandText" id="htflow-851" hf-data-width="390px" hf-data-display="block">
+	<li class="title" id="htflow-852" hf-data-width="366px" hf-data-display="list-item"><h2 id="htflow-853" hf-data-width="366px" hf-data-display="block">Employers</h2></li>
+	<li id="htflow-854" hf-data-width="366px" hf-data-display="list-item">
+		<a href="https://www.civica.com/en-gb/product-pages/trac/" title="Intelligent application management with Civica" id="htflow-855" hf-data-width="295.734px" hf-data-display="inline-block">
+			Intelligent application management
+		</a>
+	</li>
+	<li class="my-3" id="htflow-856" hf-data-width="366px" hf-data-display="list-item">
+		<a href="/about/advertise" title="Advertise your vacancies on HealthJobsUK" id="htflow-857" hf-data-width="145.188px" hf-data-display="inline-block">
+			Advertise with us
+		</a>
+	</li>
+</ul>
+
+		</div>
+
+		<div id="htflow-858" hf-data-width="390px" hf-data-display="block">
+			<div class="hj-central-body row" id="htflow-859" hf-data-width="390px" hf-data-display="flex">
+				<div class="col-md-6" id="htflow-860" hf-data-width="390px" hf-data-display="block">
+					<div class="BrandText" id="htflow-861" hf-data-width="366px" hf-data-display="block">
+						© Copyright 2025 Civica UK Ltd
+					</div>
+				</div>
+				<div class="col-md-6" id="htflow-862" hf-data-width="390px" hf-data-display="block">
+					<div class="zc-icon-title corporate-logo-light" aria-label="Civica UK Ltd" id="htflow-863" hf-data-width="200px" hf-data-display="block"></div>
+				</div>
+			</div>
+		</div>
+	</footer>
+</div>
+
+	
+
+
+		<script id="htflow-864" hf-data-width="auto" hf-data-display="none">
+<!--
+// Piwik
+var _paq = _paq || [];
+_paq.push(['disableCookies']);
+_paq.push(["setCustomUrl","https:\/\/www.healthjobsuk.com\/job_list?JobSearch_q=&JobSearch_d=&JobSearch_g=441&JobSearch_re=_POST&JobSearch_re_0=1&JobSearch_re_1=1-_-_-&JobSearch_re_2=1-_-_--_-_-&JobSearch_Submit=Search&_tr=JobSearch&_ts=60910"]);
+_paq.push(["setCustomVariable",1,"feedid",9002,"visit"]);
+_paq.push(['setDomains', 'apps.trac.jobs']);
+_paq.push(['setDocumentTitle', document.domain + '/' + document.title]);
+_paq.push(['trackPageView']);
+_paq.push(["enableLinkTracking"]);
+
+(function() {
+	var u=(("https:" == document.location.protocol) ? "https" : "http") + "://webstats.zedcore.com/";
+	_paq.push(["setTrackerUrl", u+"piwik.php"]);
+	_paq.push(["setSiteId", "9"]);
+	var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+	g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+})();
+// End Piwik Code
+-->
+</script><div id="htflow-865" aria-live="assertive" hf-data-width="390px" hf-data-display="block"></div>
+<div id="htflow-866" aria-live="polite" hf-data-width="390px" hf-data-display="block"></div>
+	
+
+<div id="htflow-867" ext-id="liecbddmkiiihnedobmlmillhodjkdmb" hf-data-width="390px" hf-data-display="block"><div id="htflow-868" hf-data-width="390px" hf-data-display="block"></div></div><div id="htflow-869" style="font-family: Roboto, sans-serif; display: none; position: absolute; z-index: 8675309; cursor: pointer; width: 67px;" hf-data-width="67px" hf-data-display="none"><div id="htflow-870" style="position: relative; z-index: 8675309; width: 67px; height: 24px;" hf-data-width="67px" hf-data-display="block"><span id="htflow-871" style="width: 67px; height: 24px; background-image: url(&quot;chrome-extension://noojglkidnpfjbincgijbaiedldjfbhh/buffer-hover-button.svg&quot;); background-size: 67px 24px; cursor: pointer; opacity: 0.9; display: block; position: relative; z-index: 8675309;" hf-data-width="67px" hf-data-display="block"></span><div id="htflow-872" style="position: relative; z-index: 8675308; width: 140px; height: 122px; display: none; bottom: 122px; right: 75px;" hf-data-width="140px" hf-data-display="none"><div id="htflow-873" style="font-size: 14px; width: 140px; display: block; cursor: pointer; padding: 0px 4px; color: rgb(61, 61, 61); line-height: 28px; background-color: rgba(255, 255, 255, 0.8); border-top-left-radius: 4px; border-top-right-radius: 4px; height: 4px;" hf-data-width="140px" hf-data-display="block"></div><div id="htflow-874" class="buffer-extension-hover-button" style="font-size: 14px; width: 140px; height: 28px; display: block; cursor: pointer; padding: 0px 4px; color: rgb(61, 61, 61); line-height: 28px;" hf-data-width="140px" hf-data-display="block"><span id="htflow-875" hf-data-width="auto" hf-data-display="block">Create Post</span></div><div id="htflow-876" class="buffer-extension-hover-button" style="font-size: 14px; width: 140px; height: 28px; display: block; cursor: pointer; padding: 0px 4px; color: rgb(61, 61, 61); line-height: 28px;" hf-data-width="140px" hf-data-display="block"><span id="htflow-877" hf-data-width="auto" hf-data-display="block">Save Idea</span></div><div id="htflow-878" style="font-size: 14px; width: 140px; display: block; cursor: pointer; padding: 0px 4px; color: rgb(61, 61, 61); line-height: 28px; background-color: rgba(255, 255, 255, 0.8); border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; height: 4px;" hf-data-width="140px" hf-data-display="block"></div><style id="htflow-879" hf-data-width="auto" hf-data-display="none">.buffer-extension-hover-button { background-color:rgba(255, 255, 255, 0.8); } .buffer-extension-hover-button span { display:block; padding: 0 4px; border-radius: 4px 4px 4px 4px; -webkit-border-radius: 4px 4px 4px 4px; -moz-border-radius: 4px 4px 4px 4px; } .buffer-extension-hover-button:hover span { background-color:#F5F5F5; }</style></div></div></div><div id="htflow-880" data-nosnippet="true" hf-data-width="390px" hf-data-display="block"><div class="onetrust-pc-dark-filter ot-hide ot-fade-in" id="htflow-881" hf-data-width="100%" hf-data-display="none"></div><div id="htflow-882" class="otPcPanel ot-hide ot-fade-in otRelFont" lang="en" aria-label="Preference center" role="region" hf-data-width="390px" hf-data-display="block"><div role="dialog" aria-modal="true" style="height: 100%;" aria-label="Our use of cookies" id="htflow-883" hf-data-width="390px" hf-data-display="block"><!-- PC Header --><div class="ot-pc-header" id="htflow-884" hf-data-width="390px" hf-data-display="block"><div class="ot-pc-logo" role="img" aria-label="Civica Logo" id="htflow-885" hf-data-width="390px" hf-data-display="block"><img alt="Civica Logo" src="https://cdn-ukwest.onetrust.com/logos/static/ot_company_logo.png" id="htflow-886" hf-data-width="600px" hf-data-display="inline"></div></div><div id="htflow-887" class="ot-pc-scrollbar" hf-data-width="390px" hf-data-display="block"><div class="ot-optout-signal ot-hide" id="htflow-888" hf-data-width="390px" hf-data-display="block"><div class="ot-optout-icon" id="htflow-889" hf-data-width="390px" hf-data-display="block"><svg xmlns="http://www.w3.org/2000/svg" id="htflow-890" hf-data-width="300px" hf-data-display="inline"><path class="ot-floating-button__svg-fill" d="M14.588 0l.445.328c1.807 1.303 3.961 2.533 6.461 3.688 2.015.93 4.576 1.746 7.682 2.446 0 14.178-4.73 24.133-14.19 29.864l-.398.236C4.863 30.87 0 20.837 0 6.462c3.107-.7 5.668-1.516 7.682-2.446 2.709-1.251 5.01-2.59 6.906-4.016zm5.87 13.88a.75.75 0 00-.974.159l-5.475 6.625-3.005-2.997-.077-.067a.75.75 0 00-.983 1.13l4.172 4.16 6.525-7.895.06-.083a.75.75 0 00-.16-.973z" fill="#FFF" fill-rule="evenodd" id="htflow-891" hf-data-width="auto" hf-data-display="inline"></path></svg></div><span id="htflow-892" hf-data-width="auto" hf-data-display="inline"></span></div><h2 id="htflow-893" hf-data-width="390px" hf-data-display="block">Our use of cookies</h2><div id="htflow-894" hf-data-width="390px" hf-data-display="block">We've tailored the cookies we use to improve your browsing experience. To accept all cookies click ‘accept all’. To reject all optional cookies click ‘reject all’. Alternatively, you can amend these using the 'Manage consent preferences' section below. Further information can be found in our
+            <br id="htflow-895" hf-data-width="auto" hf-data-display="inline"><a href="https://www.healthjobsuk.com/about/cookie-policy" class="privacy-notice-link" rel="noopener" target="_blank" aria-label="More information about Cookie Policy, opens in a new tab" id="htflow-896" hf-data-width="99.9297px" hf-data-display="inline-block">Cookie Policy.</a></div><button id="htflow-897" hf-data-width="227.586px" hf-data-display="inline-block">Accept recommended settings</button><section class="ot-sdk-row ot-cat-grp" id="htflow-898" hf-data-width="390px" hf-data-display="block"><h3 id="htflow-899" hf-data-width="390px" hf-data-display="block"> Manage consent preferences</h3><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0001" id="htflow-900" hf-data-width="390px" hf-data-display="block"><button ot-accordion="true" aria-expanded="false" aria-controls="ot-desc-id-C0001" aria-labelledby="ot-header-id-C0001 ot-status-id-C0001" id="htflow-901" hf-data-width="16px" hf-data-display="inline-block"></button><!-- Accordion header --><div class="ot-acc-hdr ot-always-active-group" id="htflow-902" hf-data-width="390px" hf-data-display="block"><div class="ot-plus-minus" id="htflow-903" hf-data-width="390px" hf-data-display="block"><span id="htflow-904" hf-data-width="auto" hf-data-display="inline"></span><span id="htflow-905" hf-data-width="auto" hf-data-display="inline"></span></div><h4 class="ot-cat-header" id="htflow-906" hf-data-width="390px" hf-data-display="block">Strictly Necessary</h4><div id="htflow-907" class="ot-always-active" hf-data-width="390px" hf-data-display="block">Always active</div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt" id="htflow-908" hf-data-width="390px" hf-data-display="block"><p class="ot-acc-grpdesc ot-category-desc" id="htflow-909" hf-data-width="390px" hf-data-display="block">These cookies enable core functionality such as security and accessibility. You may disable these by changing your browser settings, but this may affect how the website functions.</p><div class="ot-hlst-cntr" id="htflow-910" hf-data-width="390px" hf-data-display="block"><button class="ot-link-btn category-host-list-handler" aria-label="Cookie Details button opens Cookie List menu" data-parent-id="C0001" id="htflow-911" hf-data-width="122.195px" hf-data-display="inline-block">Cookies details‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0003" id="htflow-912" hf-data-width="390px" hf-data-display="block"><button ot-accordion="true" aria-expanded="false" aria-controls="ot-desc-id-C0003" aria-labelledby="ot-header-id-C0003" id="htflow-913" hf-data-width="16px" hf-data-display="inline-block"></button><!-- Accordion header --><div class="ot-acc-hdr" id="htflow-914" hf-data-width="390px" hf-data-display="block"><div class="ot-plus-minus" id="htflow-915" hf-data-width="390px" hf-data-display="block"><span id="htflow-916" hf-data-width="auto" hf-data-display="inline"></span><span id="htflow-917" hf-data-width="auto" hf-data-display="inline"></span></div><h4 class="ot-cat-header" id="htflow-918" hf-data-width="390px" hf-data-display="block">Analytics &amp; Functional</h4><div class="ot-tgl" id="htflow-919" hf-data-width="390px" hf-data-display="block"><input type="checkbox" name="ot-group-id-C0003" id="htflow-920" role="switch" class="category-switch-handler" data-optanongroupid="C0003" checked="" aria-labelledby="ot-header-id-C0003" hf-data-width="16px" hf-data-display="inline-block"> <label class="ot-switch" for="ot-group-id-C0003" id="htflow-921" hf-data-width="155.984px" hf-data-display="inline-block"><span class="ot-switch-nob" id="htflow-922" hf-data-width="auto" hf-data-display="inline"></span> <span class="ot-label-txt" id="htflow-923" hf-data-width="auto" hf-data-display="inline">Analytics &amp; Functional</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt" id="htflow-924" hf-data-width="390px" hf-data-display="block"><p class="ot-acc-grpdesc ot-category-desc" id="htflow-925" hf-data-width="390px" hf-data-display="block">We'd like to set analytics and functional cookies to improve our website by collecting and reporting information on how you use it. These cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. These cookies collect information in a way that does not directly identify anyone. For more information on how these cookies work, please see our Cookie Policy. If you do not allow these cookies, then some or all of these services may not function properly.</p><div class="ot-hlst-cntr" id="htflow-926" hf-data-width="390px" hf-data-display="block"><button class="ot-link-btn category-host-list-handler" aria-label="Cookie Details button opens Cookie List menu" data-parent-id="C0003" id="htflow-927" hf-data-width="122.195px" hf-data-display="inline-block">Cookies details‎</button></div></div></div><div class="ot-accordion-layout ot-cat-item ot-vs-config" data-optanongroupid="C0002" id="htflow-928" hf-data-width="390px" hf-data-display="block"><button ot-accordion="true" aria-expanded="false" aria-controls="ot-desc-id-C0002" aria-labelledby="ot-header-id-C0002" id="htflow-929" hf-data-width="16px" hf-data-display="inline-block"></button><!-- Accordion header --><div class="ot-acc-hdr" id="htflow-930" hf-data-width="390px" hf-data-display="block"><div class="ot-plus-minus" id="htflow-931" hf-data-width="390px" hf-data-display="block"><span id="htflow-932" hf-data-width="auto" hf-data-display="inline"></span><span id="htflow-933" hf-data-width="auto" hf-data-display="inline"></span></div><h4 class="ot-cat-header" id="htflow-934" hf-data-width="390px" hf-data-display="block">Performance Cookies</h4><div class="ot-tgl" id="htflow-935" hf-data-width="390px" hf-data-display="block"><input type="checkbox" name="ot-group-id-C0002" id="htflow-936" role="switch" class="category-switch-handler" data-optanongroupid="C0002" checked="" aria-labelledby="ot-header-id-C0002" hf-data-width="16px" hf-data-display="inline-block"> <label class="ot-switch" for="ot-group-id-C0002" id="htflow-937" hf-data-width="150.758px" hf-data-display="inline-block"><span class="ot-switch-nob" id="htflow-938" hf-data-width="auto" hf-data-display="inline"></span> <span class="ot-label-txt" id="htflow-939" hf-data-width="auto" hf-data-display="inline">Performance Cookies</span></label> </div></div><!-- accordion detail --><div class="ot-acc-grpcntr ot-acc-txt" id="htflow-940" hf-data-width="390px" hf-data-display="block"><p class="ot-acc-grpdesc ot-category-desc" id="htflow-941" hf-data-width="390px" hf-data-display="block">These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.</p><div class="ot-hlst-cntr" id="htflow-942" hf-data-width="390px" hf-data-display="block"><button class="ot-link-btn category-host-list-handler" aria-label="Cookie Details button opens Cookie List menu" data-parent-id="C0002" id="htflow-943" hf-data-width="122.195px" hf-data-display="inline-block">Cookies details‎</button></div></div></div><!-- Non Accordion Group --><!-- Accordion Group section starts --><!-- Accordion Group section ends --></section></div><section id="htflow-944" class="ot-hide ot-pc-scrollbar" hf-data-width="390px" hf-data-display="block"><div id="htflow-945" hf-data-width="390px" hf-data-display="block"><div id="htflow-946" hf-data-width="390px" hf-data-display="block"><button class="ot-link-btn back-btn-handler" aria-label="Back" id="htflow-947" hf-data-width="16px" hf-data-display="inline-block"><svg id="htflow-948" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 444.531 444.531" xml:space="preserve" hf-data-width="0px" hf-data-display="inline"><title id="htflow-949" hf-data-width="auto" hf-data-display="inline">Back Button</title><g id="htflow-950" hf-data-width="auto" hf-data-display="inline"><path fill="#656565" d="M213.13,222.409L351.88,83.653c7.05-7.043,10.567-15.657,10.567-25.841c0-10.183-3.518-18.793-10.567-25.835
+          l-21.409-21.416C323.432,3.521,314.817,0,304.637,0s-18.791,3.521-25.841,10.561L92.649,196.425
+          c-7.044,7.043-10.566,15.656-10.566,25.841s3.521,18.791,10.566,25.837l186.146,185.864c7.05,7.043,15.66,10.564,25.841,10.564
+          s18.795-3.521,25.834-10.564l21.409-21.412c7.05-7.039,10.567-15.604,10.567-25.697c0-10.085-3.518-18.746-10.567-25.978
+          L213.13,222.409z" id="htflow-951" hf-data-width="auto" hf-data-display="inline"></path></g></svg></button><h3 id="htflow-952" hf-data-width="390px" hf-data-display="block">Cookie List</h3></div><div class="ot-lst-subhdr" id="htflow-953" hf-data-width="390px" hf-data-display="block"><div class="ot-search-cntr" id="htflow-954" hf-data-width="390px" hf-data-display="block"><p role="status" class="ot-scrn-rdr" id="htflow-955" hf-data-width="390px" hf-data-display="block"></p><input id="htflow-956" type="text" name="vendor-search-handler" placeholder="Search…" aria-label="Cookie list search" hf-data-width="177.5px" hf-data-display="inline-block"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 -30 110 110" aria-hidden="true" id="htflow-957" hf-data-width="390px" hf-data-display="inline"><title id="htflow-958" hf-data-width="auto" hf-data-display="inline">Search Icon</title><path fill="#2e3644" d="M55.146,51.887L41.588,37.786c3.486-4.144,5.396-9.358,5.396-14.786c0-12.682-10.318-23-23-23s-23,10.318-23,23
+            s10.318,23,23,23c4.761,0,9.298-1.436,13.177-4.162l13.661,14.208c0.571,0.593,1.339,0.92,2.162,0.92
+            c0.779,0,1.518-0.297,2.079-0.837C56.255,54.982,56.293,53.08,55.146,51.887z M23.984,6c9.374,0,17,7.626,17,17s-7.626,17-17,17
+            s-17-7.626-17-17S14.61,6,23.984,6z" id="htflow-959" hf-data-width="auto" hf-data-display="inline"></path></svg></div><div class="ot-fltr-cntr" id="htflow-960" hf-data-width="390px" hf-data-display="block"><button id="htflow-961" aria-label="Filter" aria-haspopup="true" hf-data-width="16px" hf-data-display="inline-block"><svg role="presentation" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 402.577 402.577" xml:space="preserve" id="htflow-962" hf-data-width="0px" hf-data-display="inline"><title id="htflow-963" hf-data-width="auto" hf-data-display="inline">Filter Icon</title><g id="htflow-964" hf-data-width="auto" hf-data-display="inline"><path fill="#fff" d="M400.858,11.427c-3.241-7.421-8.85-11.132-16.854-11.136H18.564c-7.993,0-13.61,3.715-16.846,11.136
+      c-3.234,7.801-1.903,14.467,3.999,19.985l140.757,140.753v138.755c0,4.955,1.809,9.232,5.424,12.854l73.085,73.083
+      c3.429,3.614,7.71,5.428,12.851,5.428c2.282,0,4.66-0.479,7.135-1.43c7.426-3.238,11.14-8.851,11.14-16.845V172.166L396.861,31.413
+      C402.765,25.895,404.093,19.231,400.858,11.427z" id="htflow-965" hf-data-width="auto" hf-data-display="inline"></path></g></svg></button></div><div id="htflow-966" hf-data-width="390px" hf-data-display="block"></div><section id="htflow-967" hf-data-width="390px" hf-data-display="block"><div id="htflow-968" hf-data-width="390px" hf-data-display="block"><button id="htflow-969" hf-data-width="54px" hf-data-display="inline-block">Clear</button><div class="ot-fltr-scrlcnt ot-pc-scrollbar" id="htflow-970" hf-data-width="390px" hf-data-display="block"><div class="ot-fltr-opts" role="list" id="htflow-971" hf-data-width="390px" hf-data-display="block"><div class="ot-fltr-opt" role="listitem" id="htflow-972" hf-data-width="390px" hf-data-display="block"><div class="ot-chkbox" id="htflow-973" hf-data-width="390px" hf-data-display="block"><input id="htflow-974" type="checkbox" class="category-filter-handler" hf-data-width="16px" hf-data-display="inline-block"> <label for="chkbox-id" id="htflow-975" hf-data-width="102.758px" hf-data-display="inline-block"><span class="ot-label-txt" id="htflow-976" hf-data-width="auto" hf-data-display="inline">checkbox label</span></label> <span class="ot-label-status" id="htflow-977" hf-data-width="auto" hf-data-display="inline">label</span></div></div></div><div class="ot-fltr-btns" id="htflow-978" hf-data-width="390px" hf-data-display="block"><button id="htflow-979" hf-data-width="56.8359px" hf-data-display="inline-block">Apply</button> <button id="htflow-980" hf-data-width="63.9219px" hf-data-display="inline-block">Cancel</button></div></div></div></section></div></div><section id="htflow-981" class="ot-pc-scrollbar" hf-data-width="390px" hf-data-display="block"><div id="htflow-982" hf-data-width="390px" hf-data-display="block"><div class="ot-sel-all" id="htflow-983" hf-data-width="390px" hf-data-display="block"><div class="ot-sel-all-hdr" id="htflow-984" hf-data-width="390px" hf-data-display="block"><span class="ot-consent-hdr" id="htflow-985" hf-data-width="auto" hf-data-display="inline">Consent</span> <span class="ot-li-hdr" id="htflow-986" hf-data-width="auto" hf-data-display="inline">Leg.Interest</span></div><div class="ot-sel-all-chkbox" id="htflow-987" hf-data-width="390px" hf-data-display="block"><div class="ot-chkbox" id="htflow-988" hf-data-width="390px" hf-data-display="block"><input id="htflow-989" type="checkbox" hf-data-width="16px" hf-data-display="inline-block"> <label for="select-all-hosts-groups-handler" id="htflow-990" hf-data-width="102.758px" hf-data-display="inline-block"><span class="ot-label-txt" id="htflow-991" hf-data-width="auto" hf-data-display="inline">checkbox label</span></label> <span class="ot-label-status" id="htflow-992" hf-data-width="auto" hf-data-display="inline">label</span></div><div class="ot-chkbox" id="htflow-993" hf-data-width="390px" hf-data-display="block"><input id="htflow-994" type="checkbox" hf-data-width="16px" hf-data-display="inline-block"> <label for="select-all-vendor-groups-handler" id="htflow-995" hf-data-width="102.758px" hf-data-display="inline-block"><span class="ot-label-txt" id="htflow-996" hf-data-width="auto" hf-data-display="inline">checkbox label</span></label> <span class="ot-label-status" id="htflow-997" hf-data-width="auto" hf-data-display="inline">label</span></div><div class="ot-chkbox" id="htflow-998" hf-data-width="390px" hf-data-display="block"><input id="htflow-999" type="checkbox" hf-data-width="16px" hf-data-display="inline-block"> <label for="select-all-vendor-leg-handler" id="htflow-1000" hf-data-width="102.758px" hf-data-display="inline-block"><span class="ot-label-txt" id="htflow-1001" hf-data-width="auto" hf-data-display="inline">checkbox label</span></label> <span class="ot-label-status" id="htflow-1002" hf-data-width="auto" hf-data-display="inline">label</span></div></div></div></div><div class="ot-sdk-row" id="htflow-1003" hf-data-width="390px" hf-data-display="block"><div class="ot-sdk-column" id="htflow-1004" hf-data-width="390px" hf-data-display="block"><ul id="htflow-1005" hf-data-width="390px" hf-data-display="block"></ul></div></div></section></section><!-- Footer buttons and logo --><div class="ot-pc-footer ot-pc-scrollbar" id="htflow-1006" hf-data-width="390px" hf-data-display="block"><div class="ot-btn-container" id="htflow-1007" hf-data-width="390px" hf-data-display="block"><button class="ot-pc-refuse-all-handler" id="htflow-1008" hf-data-width="79.9688px" hf-data-display="inline-block">Reject all</button> <button class="save-preference-btn-handler onetrust-close-btn-handler" id="htflow-1009" hf-data-width="120.117px" hf-data-display="inline-block">Save and Close</button></div><div class="ot-pc-footer-logo" id="htflow-1010" hf-data-width="390px" hf-data-display="block"><a href="https://www.onetrust.com/products/cookie-consent/" target="_blank" rel="noopener noreferrer" aria-label="Powered by OneTrust Opens in a new Tab" id="htflow-1011" hf-data-width="136px" hf-data-display="inline-block"><img alt="Powered by Onetrust" src="https://cdn-ukwest.onetrust.com/logos/static/powered_by_logo.svg" title="Powered by OneTrust Opens in a new Tab" id="htflow-1012" hf-data-width="136px" hf-data-display="inline"></a></div></div><!-- Cookie subgroup container --><!-- Vendor list link --><!-- Cookie lost link --><!-- Toggle HTML element --><!-- Checkbox HTML --><!-- Arrow SVG element --><!-- plus minus--><!-- Accordion basic element --><span class="ot-scrn-rdr" aria-atomic="true" aria-live="polite" id="htflow-1013" hf-data-width="auto" hf-data-display="inline"></span><!-- Vendor Service container and item template --></div><iframe class="ot-text-resize" sandbox="allow-same-origin" title="onetrust-text-resize" style="position: absolute; top: -50000px; width: 100em;" aria-hidden="true" id="htflow-1014" hf-data-width="1600px" hf-data-display="block"></iframe></div><div id="htflow-1015" class="ot-floating-button" data-title="Customise settings" hf-data-width="390px" hf-data-display="block"><div class="ot-floating-button__front" id="htflow-1016" hf-data-width="390px" hf-data-display="block"><button type="button" class="ot-floating-button__open" aria-label="Customise settings" id="htflow-1017" hf-data-width="316px" hf-data-display="inline-block"><svg xmlns="http://www.w3.org/2000/svg" id="htflow-1018" hf-data-width="300px" hf-data-display="inline"><path class="ot-floating-button__svg-fill" d="M14.588 0l.445.328c1.807 1.303 3.961 2.533 6.461 3.688 2.015.93 4.576 1.746 7.682 2.446 0 14.178-4.73 24.133-14.19 29.864l-.398.236C4.863 30.87 0 20.837 0 6.462c3.107-.7 5.668-1.516 7.682-2.446 2.709-1.251 5.01-2.59 6.906-4.016zm5.87 13.88a.75.75 0 00-.974.159l-5.475 6.625-3.005-2.997-.077-.067a.75.75 0 00-.983 1.13l4.172 4.16 6.525-7.895.06-.083a.75.75 0 00-.16-.973z" fill="#FFF" fill-rule="evenodd" id="htflow-1019" hf-data-width="auto" hf-data-display="inline"></path></svg></button></div><div class="ot-floating-button__back" id="htflow-1020" hf-data-width="390px" hf-data-display="block"><button type="button" class="ot-floating-button__close" aria-label="Close Preferences" aria-hidden="true" style="display: none;" id="htflow-1021" hf-data-width="auto" hf-data-display="none"><!--?xml version="1.0" encoding="UTF-8"?--> <svg role="presentation" tabindex="-1" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" id="htflow-1022" hf-data-width="auto" hf-data-display="inline"><g id="htflow-1023" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" hf-data-width="auto" hf-data-display="inline"><g id="htflow-1024" class="ot-floating-button__svg-fill" transform="translate(-318.000000, -725.000000)" fill="#292B2E" fill-rule="nonzero" hf-data-width="auto" hf-data-display="inline"><g id="htflow-1025" transform="translate(305.000000, 712.000000)" hf-data-width="auto" hf-data-display="inline"><g id="htflow-1026" hf-data-width="auto" hf-data-display="inline"><polygon id="htflow-1027" points="13.3333333 14.9176256 35.0823744 36.6666667 36.6666667 35.0823744 14.9176256 13.3333333" hf-data-width="auto" hf-data-display="inline"></polygon><polygon id="htflow-1028" transform="translate(25.000000, 25.000000) scale(-1, 1) translate(-25.000000, -25.000000) " points="13.3333333 14.9176256 35.0823744 36.6666667 36.6666667 35.0823744 14.9176256 13.3333333" hf-data-width="auto" hf-data-display="inline"></polygon></g></g></g></g></svg></button></div></div></div><div class="calendly-frame-tag" manager_id="df066ad1-7129-479d-bd16-fdd3762f7c1d" id="htflow-1029" style="height: 0px; width: 0px; visibility: hidden;" hf-data-width="0px" hf-data-display="block"></div><div class="calendly-lifecycle-optibutton_singleton" id="htflow-1030" hf-data-width="390px" hf-data-display="block"></div></body>
